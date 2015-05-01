@@ -1,0 +1,309 @@
+K1U300
+1 Melillo, Lucius Fox (1,Pease Elementary, Austin, TX) 296 5.0 14.0 10.0 15.5 31.0 15.0
+2 Sandvig, Auden (3,Laurel Mountain Elementary, Aust) 287 4.0 11.5 6.5 13.5 17.0 12.0
+3 Whelan, Luke (11,Casis Elementary, Austin, Texas) 189 3.5 12.0 7.0 12.0 14.0 11.5
+4 Kanna, Basant (8,Cactus Ranch Elementary, Round R) 207 3.5 10.5 5.5 12.0 12.5 10.5
+5 Boyapalle, Saaketh Red (13,Laurel Mountain Elementary, Aust) 127 3.5 10.0 6.0 11.5 13.0 9.5
+6 Sotello, Joshua Joe (2,Brykerwoods Elementary, Austin, ) 295 3.5 8.0 4.5 8.0 16.0 11.0
+7 Sinha, Pratyush (27,Laurel Mountain Elementary, Aust) nnnn 3.0 11.5 6.5 13.0 12.5 8.5
+8 Ayala, Nayen Lorenzo (18,Brykerwoods Elementary, Austin, ) nnnn 3.0 6.0 3.5 6.0 10.0 8.5
+9 Stidvent, Evelyn Rey (10,Laurel Mountain Elementary, Aust) 201 2.5 7.5 7.5 13.0 9.0 9.5
+10 Shieh, Zane (7,Casis Elementary, Austin, Texas) 246 2.5 7.0 7.0 12.0 7.5 7.0
+11 Kim, Daniel Ji-Ho (15,Patsy Sommer Elementary, Austin,) 109 2.5 6.5 6.5 10.5 4.0 6.0
+12 Anand, Aarush (12,Laurel Mountain Elementary, Aust) 128 2.5 5.5 5.5 9.0 7.0 7.0
+13 Braman-Ray, Isaac Juba (19,Brykerwoods Elementary, Austin, ) nnnn 2.5 3.0 3.0 5.0 6.5 6.5
+14 Cush, Noah (22,Spicewood Elementary, Austin, Te) nnnn 2.5 1.0 1.0 2.5 5.0 5.0
+15 Jones, Dean William (5,Casis Elementary, Austin, Texas) 275 2.0 9.5 9.5 13.5 8.5 7.5
+16 Stone, Katherine Layne (28,Casis Elementary, Austin, Texas) nnnn 2.0 8.0 8.0 11.0 8.5 6.0
+17 Greenberg, Parker Barto (23,Casis Elementary, Austin, Texas) nnnn 2.0 7.5 7.5 11.5 5.5 6.0
+18 Deane, Millie (14,Casis Elementary, Austin, Texas) 112 2.0 6.5 6.5 11.5 3.0 4.5
+19 Nellori, Arjun (26,River Place Elementary, Austin, ) nnnn 2.0 6.5 6.5 10.5 6.5 4.5
+20 Murray, Nathan (25,Brykerwoods Elementary, Austin, ) nnnn 2.0 3.5 3.5 7.0 4.5 4.0
+21 Long, Cameron Eilsabeth (9,Casis Elementary, Austin, Texas) 201 2.0 3.0 3.0 6.5 4.0 5.5
+22 Jayendran, Niranjana (4,Elsa England Elementary, Austin,) 282 1.5 9.5 8.0 13.0 6.0 6.5
+23 Whelan, Connor (6,Casis Elementary, Austin, Texas) 272 1.5 7.5 7.5 11.0 2.0 6.5
+24 Long, Charlotte Miller (16,Casis Elementary, Austin, Texas) 101 1.5 1.0 1.0 4.5 0.0 3.0
+25 Walewski, Lily June (29,Robert E. Lee Elementary, Austin) nnnn 1.0 7.0 5.5 9.5 3.0 3.0
+26 Branch, Clayton Dean (20,Casis Elementary, Austin, Texas) nnnn 1.0 4.0 4.0 7.5 3.5 3.0
+27 Arunachalam, Arunachalam (17,Challenger School, Austin,TX) nnnn 1.0 2.0 2.0 5.5 2.0 3.0
+28 Callender, Case J (21,Casis Elementary, Austin, Texas) nnnn 0.5 5.0 5.0 8.5 0.0 2.0
+
+K3
+
+1 Chennuru, Anshu (2,Cactus Ranch Elementary, Round R) 1009 4.0 15.0 11.0 17.0 26.0 14.0
+2 Duggirala , Bhavyashree (4,Caraway Elementary, Austin, Tx) 917 4.0 14.0 10.0 15.5 23.0 13.0
+3 Dodd, Circe (1,Austin Area Homeschoolers, Austi) 1015 4.0 13.0 9.0 14.5 21.0 12.0
+4 Tunks, Caleb Barrett (3,Austin Area Homeschoolers, Austi) 989 4.0 12.0 8.0 14.0 20.0 12.0
+5 Tang, Ethan Tingyi (7,Spicewood Elementary, Austin, Te) 834 3.0 13.5 9.5 15.0 14.0 12.0
+6 Gao, Tianwen (15,Spicewood Elementary, Austin, Te) 552 3.0 13.0 9.0 14.5 13.0 8.0
+7 Gujrathi, Anay (20,Patsy Sommer Elementary, Austin,) 512 3.0 11.5 7.5 12.5 11.0 10.0
+8 Bandaru, Varun (9,Patsy Sommer Elementary, Austin,) 773 3.0 10.5 6.5 10.5 7.0 8.0
+9 McMullen, Niko Shayan (5,Spicewood Elementary, Austin, Te) 902 3.0 9.5 6.5 9.5 9.0 7.0
+10 Sangani, Vedant (11,Patsy Sommer Elementary, Austin,) 709 2.5 7.0 7.0 11.0 8.0 6.0
+11 Saha, Anish (12,Elsa England Elementary, Austin,) 696 2.0 9.0 8.0 13.0 6.0 5.0
+12 Reddy, Tanvi (21,Laurel Mountain Elementary, Aust) 501 2.0 8.5 8.5 12.5 6.0 6.0
+13 Kanjilal, Sambit (19,Spicewood Elementary, Austin, Te) 514 2.0 8.0 8.0 12.0 4.0 7.0
+14 Dokka, Vishnu Sriteja (14,Spicewood Elementary, Austin, Te) 609 2.0 6.5 6.5 10.5 4.5 4.5
+15 Choudhary, Arhant (13,Harmony School of Political Scie) 625 2.0 6.0 5.0 10.0 5.5 5.5
+16 Hwang, Alexis (8,Elsa England Elementary, Austin,) 826 1.5 10.0 8.0 14.0 6.0 6.0
+17 Punalekar, Aryan Amit (10,Spicewood Elementary, Austin, Te) 756 1.0 6.5 6.5 9.5 0.0 3.0
+18 Kapasi, Salim Silk (17,Maplewood Elementary, Austin, TX) 536 0.0 8.0 7.0 11.0 0.0 0.0
+19 Ishraq , Armaan A (18,Patsy Sommer Elementary, Austin,) 524 0.0 0.0 0.0 1.5 0.0 0.0
+20 Bhattacharya, Shubhang (16,Elsa England Elementary, Austin,) 545 0.0 0.0 0.0 0.0 0.0 0.0
+
+
+K3U300
+1 Ragavan, Kirti P (4,Laurel Mountain Elementary, Aust) 282 5.0 13.5 9.5 16.0 32.0 15.0
+2 Zimmermann, Zach Marc (2,Casis Elementary, Austin, Texas) 290 4.0 14.5 9.5 16.5 23.0 13.0
+3 Kansal, Ishaan (33,Cactus Ranch Elementary, Round R) nnnn 4.0 11.0 8.0 12.5 22.0 10.0
+4 Winesett, Lemuel (3,Maplewood Elementary, Austin, TX) 283 4.0 9.5 6.5 10.0 15.5 11.5
+5 Zeng, Jacob Meng (6,Laurel Mountain Elementary, Aust) 259 3.5 14.0 9.0 16.5 20.5 12.0
+6 Dunaway, Cannon Reed (10,Casis Elementary, Austin, Texas) 225 3.5 11.0 7.5 11.0 15.0 10.0
+7 Macartney-Filgate, Chri (8,Spicewood Elementary, Austin, Te) 251 3.5 9.5 5.5 9.5 11.0 11.0
+8 Shieh, Rylie (22,Casis Elementary, Austin, Texas) 103 3.0 13.5 9.5 13.5 13.0 9.5
+9 Springer, Finn Revere (5,Casis Elementary, Austin, Texas) 263 3.0 13.0 9.0 15.0 15.0 11.0
+10 Sabnis, Avni (14,Patsy Sommer Elementary, Austin,) 151 3.0 13.0 8.0 14.0 10.0 10.0
+11 Deane, Holland (7,Casis Elementary, Austin, Texas) 258 3.0 12.0 8.0 14.0 15.0 9.5
+12 Umesha, Rithvik (12,Laurel Mountain Elementary, Aust) 157 3.0 12.0 8.0 14.0 12.0 10.0
+13 Taylor, Pierson (38,Maplewood Elementary, Austin, TX) nnnn 3.0 11.5 7.5 12.5 11.0 7.0
+14 Jammula, Triyatha (31,Meridi) nnnn 3.0 11.0 8.0 11.0 13.0 8.5
+15 Corwin-Hughes, Oscar C (26,Maplewood Elementary, Austin, TX)nnnn 3.0 10.0 7.0 11.5 12.5 8.0
+16 Jones, Charles Draden (9,Spicewood Elementary, Austin, Te) 234 3.0 8.0 5.5 8.5 7.0 7.0
+17 Syed, Gabriel R (37,Robert E. Lee Elementary, Austin) nnnn 2.5 8.5 8.5 14.5 13.5 8.5
+18 Corrigan, Oliver Valent (25,Casis Elementary, Austin, Texas) nnnn 2.5 7.5 7.5 12.5 9.5 7.5
+19 Dover, Jack (28,Brykerwoods Elementary, Austin, ) nnnn 2.5 7.5 7.5 12.0 8.5 8.0
+20 Wong, Daniel Akira (16,Brushy Creek Elementary, Round R) 116 2.5 7.0 7.0 12.0 8.5 7.5
+21 Fleming, Walter Thomas (29) nnnn 2.5 6.5 6.5 12.0 5.5 5.5
+22 Jalbert, Caden R (1,Brushy Creek Elementary, Round R) 294 2.5 3.5 3.5 8.5 7.0 9.5
+23 Bohmer, Christian (24,Brykerwoods Elementary, Austin, ) nnnn 2.0 10.5 9.0 14.5 10.0 8.5
+24 Cunningham, Marco Valentine (27) nnnn 2.0 10.0 8.5 14.0 7.0 8.0
+25 Perez, Sebastian (35,Brykerwoods Elementary, Austin, ) nnnn 2.0 9.0 7.5 12.0 6.0 6.0
+26 Valadez, Alejandro Migu (19,Casis Elementary, Austin, Texas) 109 2.0 8.5 7.0 11.5 9.0 6.0
+27 Bhat, Saanvi (18,Patsy Sommer Elementary, Austin,) 109 2.0 7.5 6.5 10.5 6.0 3.5
+28 Benjamin, AJ (11,Casis Elementary, Austin, Texas) 210 2.0 7.0 6.0 11.0 6.0 3.5
+29 Shashikiran, Sarayu (15,Patsy Sommer Elementary, Austin,) 134 2.0 6.0 6.0 8.5 4.0 4.0
+30 Linan, Jeb (20,Patsy Sommer Elementary, Austin,) 105 2.0 6.0 5.0 10.0 5.5 3.5
+31 Bello, Peter Agbodan (23,Brykerwoods Elementary, Austin, ) nnnn 2.0 4.5 4.0 7.5 3.0 4.5
+32 Qu, Berntrand Wei (17,Laurel Mountain Elementary, Aust) 114 1.5 9.0 7.5 13.0 9.5 6.0
+33 Tolan, Finnegan Seay (39,Casis Elementary, Austin, Texas) nnnn 1.5 8.5 7.0 11.5 5.5 5.0
+34 Jimenez-Williams, Mart (32,Brykerwoods Elementary, Austin, ) nnnn 1.5 0.0 0.0 0.0 0.0 5.0
+35 Ivey, Grace (30,Casis Elementary, Austin, Texas) nnnn 1.0 8.0 7.0 11.5 3.0 3.5
+36 McAfee, Amelia (21,Casis Elementary, Austin, Texas) 105 1.0 7.5 7.5 11.5 0.0 1.0
+37 Delaney, Kaylie (13,Casis Elementary, Austin, Texas) 156 1.0 7.5 6.5 10.0 3.0 3.5
+38 Kirby, R Caedmon (34) nnnn 1.0 7.0 6.0 10.0 2.0 3.5
+39 Saenz, Robert (36,Casis Elementary, Austin, Texas) nnnn 1.0 4.0 4.0 7.0 2.0 3.0
+
+K3U500
+
+1 Pilli, Saketh (1,Challenger School, Austin,TX) 491 5.0 14.0 10.0 17.0 34.0 15.0
+2 Schroeder, Luke Price (5,MH Specht Elementary, San Antoni) 471 4.0 13.5 8.5 15.0 20.0 13.0
+3 Ganta, Srijan Reddy (10,Will Davis Elementary, Austin, T) 458 4.0 13.5 8.5 14.0 18.0 14.0
+4 Rives, Charlie Green (9,Casis Elementary, Austin, Texas) 459 4.0 9.5 6.5 9.5 16.5 11.5
+5 Han, Darren R (24,Laurel Mountain Elementary, Aust) 378 3.5 11.5 7.5 13.0 15.0 11.0
+6 Hall, Marley Renee (3,Baranoff Elementary, Austin, Tex) 485 3.5 11.0 7.0 12.5 15.5 10.5
+7 Kakarla, Akhil (4,Patsy Sommer Elementary, Austin,) 485 3.0 14.0 10.0 16.0 16.0 10.0
+8 Kilian, Cole Christoph (13,Trinity Episcopal School, Austin) 456 3.0 13.0 9.0 14.5 15.0 10.0
+9 Sharma, Aarav (17,Patsy Sommer Elementary, Austin,) 433 3.0 12.0 7.0 12.5 8.0 9.0
+10 Lucente, Owen M (12,Robert E. Lee Elementary, Austin) 457 3.0 11.5 6.5 11.5 9.5 10.0
+11 Banoth, Advaith Veer (15,Patsy Sommer Elementary, Austin,) 439 3.0 10.5 5.5 11.0 6.0 8.0
+12 Yang, Rachel (20,Spicewood Elementary, Austin, Te) 428 3.0 10.0 7.0 10.5 9.0 6.0
+13 Ramesh, Avaneesh (23,Challenger School, Austin,TX) 393 3.0 8.0 5.0 9.5 10.0 8.0
+14 Bura, Achintya (31,Patsy Sommer Elementary, Austin,) 302 2.5 8.0 8.0 13.5 10.5 9.0
+15 James Ravichandran, Jh (25,Spicewood Elementary, Austin, Te) 373 2.5 7.5 7.5 12.5 9.0 6.5
+16 Ellington, Zack (30,Casis Elementary, Austin, Texas) 309 2.5 6.0 6.0 10.0 4.5 7.5
+17 Kime, Asher (29,Casis Elementary, Austin, Texas) 313 2.5 6.0 6.0 9.0 12.0 7.5
+18 John, Isaiah (26,Patsy Sommer Elementary, Austin,) 370 2.5 5.5 5.5 9.5 8.0 7.0
+19 Raghuraman, Visvesh (8,Chandler Oaks Elementary, Round ) 463 2.0 10.5 8.5 14.0 9.0 7.0
+20 Tunks, Daniel Franklin (16,Austin Area Homeschoolers, Austi) 438 2.0 8.0 7.5 11.0 5.0 4.0
+21 Frey, Tobias Julian (18,Robert E. Lee Elementary, Austin) 432 2.0 7.5 7.5 11.5 3.0 6.0
+22 Dasari, Anirudh (21,Cactus Ranch Elementary, Round R) 403 2.0 5.5 5.0 9.5 3.0 3.0
+23 Qu, Michael Zihao (19,Laurel Mountain Elementary, Aust) 429 1.5 10.0 8.5 14.0 7.0 5.0
+24 Deane, Harry (7,Casis Elementary, Austin, Texas) 470 1.5 8.0 6.5 11.0 5.5 5.5
+25 Crosswell, Pete (6,Casis Elementary, Austin, Texas) 470 1.5 7.5 7.5 11.0 6.0 5.0
+26 Huang, Sophia (22,Spicewood Elementary, Austin, Te) 393 1.5 6.5 6.0 10.0 2.5 6.5
+27 Stidvent, Charlotte Ma (28,Laurel Mountain Elementary, Aust) 326 1.0 8.0 8.0 11.0 0.0 2.0
+28 Whelan, John Matthew (32,Casis Elementary, Austin, Texas) 300 1.0 7.0 7.0 10.0 2.5 2.5
+29 Kini, Kiran (27,Brykerwoods Elementary, Austin, ) 351 1.0 6.5 6.5 10.5 0.0 0.0
+30 Rosen, Andrew D (11,St Theresa, Austin, TX) 458 0.5 0.0 0.0 2.5 0.0 1.0
+31 Nguyen, Allison QuynhCh (2,Laurel Mountain Elementary, Aust) 488 0.0 0.0 0.0 0.0 0.0 0.0
+&32 Mukkollu, Mohit (14,Patsy Sommer Elementary, Austin,) 455 0.0 0.0 0.0 0.0 0.0 0.0
+
+K-5
+1 Meka, Abhinu (2,Cactus Ranch Elementary, Round R) 1179 4.0 12.0 8.5 14.0 21.0 13.0
+2 Mohan, Siddhu (9,Kiker Elementary, Austin, Texas) 943 4.0 11.5 8.0 12.5 20.0 11.0
+3 Ren, Jason (8,Kiker Elementary, Austin, Texas) 1028 3.5 15.0 11.0 16.5 21.0 12.5
+4 George, Isaac (5,Bee Cave Elementary, Ausitn, TX) 1080 3.5 12.0 8.0 13.0 15.0 10.5
+5 Yellamraju, Ambica (3,Laurel Mountain Elementary, Aust) 1139 3.5 11.5 8.0 13.0 15.5 11.0
+6 Akella, Nitin Sriniketh (7,St. Francis, Austin, Texas) 1054 3.5 11.0 7.5 12.5 16.5 10.0
+7 Liu, Ethan (19,Laurel Mountain Elementary, Aust) 747 3.0 12.0 8.0 12.0 9.0 7.0
+8 Pathak, Dhruv (17,Spicewood Elementary, Austin, Te) 829 3.0 10.5 6.5 11.5 8.0 8.0
+9 Vadlamani, Siddharth S (4,Laurel Mountain Elementary, Aust) 1081 2.5 11.0 11.0 15.0 15.0 9.0
+10 Macartney-Filgate, Patr (6,Spicewood Elementary, Austin, Te) 1060 2.5 5.0 5.0 9.0 5.0 7.0
+11 Kalra, Kartik (10,Laurel Mountain Elementary, Aust) 932 2.0 10.0 9.0 14.0 6.0 6.0
+12 Aggarwal, Manika (18,Laurel Mountain Elementary, Aust) 804 2.0 6.5 6.5 10.0 2.0 3.0
+13 Jones, Isaac Maurice (15,Spicewood Elementary, Austin, Te) 836 2.0 6.5 5.5 10.0 4.0 5.0
+14 Garcia, Joshua Gabriel (12,Casis Elementary, Austin, Texas) 874 1.5 7.5 7.5 11.0 2.0 6.0
+15 Wallace, William (13,Baranoff Elementary, Austin, Tex) 866 1.5 3.5 3.5 6.5 0.0 2.0
+16 Yellamraju, Aparna (14,Laurel Mountain Elementary, Aust) 845 1.0 8.0 7.0 12.0 2.0 4.0
+17 Malone, Jonathan Isaac (16,One Day Academy, Austin, TX) 835 1.0 3.0 3.0 5.5 0.0 1.0
+18 Nguyen, Jason Hien (1,Laurel Mountain Elementary, Aust) 1224 0.0 0.0 0.0 0.0 0.0 0.0
+&19 McMullen, Niko Shayan (11,Spicewood Elementary, Austin, Te) 902 0.0 0.0 0.0 0.0 0.0 0.0
+
+K5U500
+1 Dharshan, Keshav (5,Patsy Sommer Elementary, Austin,) 411 4.5 12.0 8.0 14.0 24.0 14.5
+2 Lowden, Cyrus (1,Kiker Elementary, Austin, Texas) 486 4.0 13.0 8.5 14.0 21.5 12.0
+3 Gajjela, Sai Girish (4,Meridian School, Round Rock, TX) 436 4.0 12.5 8.5 14.0 20.5 11.5
+4 Kelly, Roan (31,Becker) nnnn 4.0 12.0 8.0 12.0 20.0 10.5
+5 Brezina, Carter Addiso (12,Laurel Mountain Elementary, Aust) 332 3.5 13.5 9.5 15.5 19.0 11.0
+6 Torres, Carlos Dylan (36,Maplewood Elementary, Austin, TX) nnnn 3.5 10.0 6.5 10.0 14.0 8.5
+7 Gardner, Charlie (29,Brykerwoods Elementary, Austin, ) nnnn 3.5 7.0 4.0 7.0 14.0 11.0
+8 Miller, Jake Wyatt (8,Brykerwoods Elementary, Austin, ) 382 3.0 14.0 9.5 14.5 12.0 12.0
+9 Buntinx, Jasper Moon (9,Brykerwoods Elementary, Austin, ) 354 3.0 13.5 9.0 15.0 14.0 11.0
+10 Bello, Cyrus (10,Brykerwoods Elementary, Austin, ) 347 3.0 12.5 8.5 13.0 10.0 11.0
+11 Yang, William (3,Brykerwoods Elementary, Austin, ) 449 3.0 11.5 8.0 13.0 13.0 10.0
+12 Umesha, Advik (2,Laurel Mountain Elementary, Aust) 473 3.0 11.5 7.5 12.5 11.0 9.0
+13 Maddala, Saaketh (6,Laurel Mountain Elementary, Aust) 396 3.0 10.5 6.5 12.5 13.0 8.0
+14 Bolduc, William Robert (13,Casis Elementary, Austin, Texas) 274 3.0 9.5 6.5 11.0 12.0 8.0
+15 Crawford, Flynn J (7,Robert E. Lee Elementary, Austin) 385 3.0 8.5 5.0 8.5 13.5 9.0
+16 Mangaonkar, Pranay Pra (17,Laurel Mountain Elementary, Aust) 207 2.5 8.5 8.5 14.0 10.5 8.5
+17 Dunaway, William Austi (11,Casis Elementary, Austin, Texas) 346 2.5 7.0 7.0 10.5 8.0 7.5
+18 Nguyen, Josiah (14,Harmony School of Innovation, Au) 270 2.5 6.5 6.5 11.0 8.0 8.5
+19 Barrera, Sebastian Ma (24,Maplewood Elementary, Austin, TX) nnnn 2.5 6.5 6.5 9.5 5.5 6.5
+20 Kirby, Bronwen L (32) nnnn 2.5 6.0 6.0 10.0 6.5 7.5
+21 Engler, Jack (27,Acton Academy, Austin, TX) nnnn 2.5 5.0 5.0 8.0 4.0 5.0
+22 Gardner, Hank (30,Brykerwoods Elementary, Austin, ) nnnn 2.0 11.0 9.5 15.5 9.0 7.0
+23 Bohmer, August (26,Brykerwoods Elementary, Austin, ) nnnn 2.0 11.0 9.5 15.0 9.0 7.0
+24 Ray, Catherine Elizabe (18,Spicewood Elementary, Austin, Te) 196 2.0 8.0 8.0 12.0 7.0 5.5
+25 Joshi, Advait (19,Meridian School, Round Rock, TX) 193 2.0 7.5 7.0 10.5 3.0 6.0
+26 Linan, Joshua (22,Patsy Sommer Elementary, Austin,) 105 2.0 5.0 5.0 9.0 1.0 3.0
+27 Arya, Anika (15,Patsy Sommer Elementary, Austin,) 248 1.5 9.5 8.0 13.5 5.5 5.5
+28 Wong, Nicholas Jyou (20,Brushy Creek Elementary, Round R) 121 1.5 8.0 6.5 11.0 4.5 5.0
+29 Patt, Gabriella Hadassa (23,Casis Elementary, Austin, Texas) 101 1.5 6.5 6.5 10.5 1.5 4.5
+30 Selvera, Mateo (35,Maplewood Elementary, Austin, TX) nnnn 1.5 6.0 5.5 8.5 3.0 3.0
+31 Bell, Kaleb Ross (25,Maplewood Elementary, Austin, TX) nnnn 1.5 5.0 4.5 8.0 3.0 3.5
+32 Murphy, Cole (33,Brykerwoods Elementary, Austin, ) nnnn 1.5 4.5 4.5 7.5 1.0 3.0
+33 Olivares, Emiliano (34) nnnn 1.0 5.0 5.0 8.0 0.0 1.0
+34 Myers, Joe (21,Austin Area Homeschoolers, Austi) 110 1.0 1.5 1.5 6.0 1.5 3.0
+35 Fleming, Hazel Elaine (28) nnnn 0.5 8.0 6.5 11.0 1.5 1.0
+36 Gillipelli, Suhas R (16,Cactus Ranch Elementary, Round R) 212 0.0 0.0 0.0 0.0 0.0 0.0
+
+
+
+
+K5U800
+1 Marrapu, Saketh (31,Laurel) 548 4.5 14.0 10.0 16.0 28.0 13.5
+2 Koushik, Darshan (19,PatS) 617 4.0 15.0 10.5 15.5 22.0 14.0
+3 John, Austin (2,PatS) 767 4.0 13.0 8.5 13.0 18.0 12.5
+4 Gujrathi, Atharva (13,PatS) 650 4.0 12.5 8.5 13.0 18.0 13.0
+5 Byrapaneni, Siri (7,PatS) 681 4.0 10.5 7.5 12.5 19.0 11.0
+6 Aggarwal, Raghav (1,CanCrk) 799 3.5 12.5 8.5 14.5 18.0 10.0
+7 Wang, Kalia Yuke (38,Laurel) 502 3.5 11.0 7.0 11.0 15.0 11.0
+8 Kim, Joshua Joon-Ho (6,PatS) 694 3.5 8.5 6.0 8.5 10.5 8.5
+9 Kim, Seokhyun(Alex (33,Laurel) 536 3.0 15.0 11.0 17.0 18.0 11.0
+10 Aggarwal, Jatin (4,Laurel) 734 3.0 14.0 10.0 16.5 17.0 11.0
+11 Dasari, Aditya (9,Cactus) 664 3.0 13.5 9.0 14.5 13.5 10.5
+12 Arya, Nikit (3,PatS) 737 3.0 12.5 8.0 14.5 14.0 9.0
+13 Balasubramanian, Sanjay (14,HSS) 641 3.0 12.0 8.0 12.5 11.0 9.0
+14 Dasagi, Aakanksha (25,PatS) 580 3.0 11.5 8.0 12.5 12.0 8.0
+15 Ragavan, Vikranth S (11,Laurel) 656 3.0 11.0 7.5 12.5 15.0 9.5
+16 Sivakumar, Arnav Kanu (5,Cactus) 717 3.0 9.5 6.5 11.0 11.0 7.0
+17 McMinn, Akash Calder (28,Casis) 572 3.0 8.5 5.5 9.5 9.0 8.0
+18 Borowicz, Andrew T (23,Lee) 583 2.5 8.0 8.0 12.0 10.0 7.0
+19 Yi, Bella (35,Laurel) 521 2.5 7.5 7.5 13.0 11.0 9.0
+20 James Ravichandran, (37,Spicew) 508 2.5 7.5 7.5 12.5 8.5 7.5
+21 Kevorkian, Milo Makoto (18,Lee) 627 2.5 7.0 7.0 10.5 7.0 7.0
+22 Gonzalez, Juan Carlo (24,Cactus) 581 2.5 7.0 7.0 10.0 8.0 6.0
+23 Ishraq , Armaan A (34,PatS) 524 2.5 5.0 5.0 8.0 5.0 6.0
+24 Swamy, Suraj (8,Merid) 669 2.0 11.5 9.0 14.5 11.5 8.5
+25 Mukherjee, Shoumodeep R (26,KPE) 579 2.0 11.0 10.5 15.0 8.0 6.0
+26 Johnson, Jadrian (12,Merid) 653 2.0 7.5 7.0 12.0 5.0 4.0
+27 Saravanan, Nikhil (27,Cactus) 576 2.0 7.5 6.5 11.5 5.0 3.0
+28 Nagarahalli, Aakash (20,Spicew) 604 2.0 7.0 6.5 10.5 2.0 6.0
+29 Higginbotham, Andrew (15,Casis) 639 2.0 6.5 6.5 9.5 3.0 5.0
+30 Arram, Suprathik Nat (29,Cactus) 562 1.5 10.5 9.0 14.0 6.0 6.5
+31 Babaria, Pratham Dee (22,HarPol) 584 1.5 4.5 4.5 7.5 1.0 5.0
+32 Muthuraman, Vishnu (10,Laurel) 662 1.5 4.0 4.0 7.0 0.0 4.0
+33 Huckabee, Grant Stev (17,BannoC) 637 1.0 9.0 8.0 12.0 2.0 3.0
+34 Samant, Aadet (39,Laurel) 429 1.0 7.0 7.0 11.0 0.0 3.0
+35 Kanna, Bhuvan (32,Cactus) 540 1.0 5.5 5.5 9.5 0.0 1.0
+36 Wan, Claire P (30,Laurel) 556 1.0 5.5 5.5 8.5 0.0 1.0
+37 Arram, Siddharth K (21,Cactus) 584 0.0 8.0 7.0 12.0 0.0 0.0
+38 Kotthakota, Divyesh (16,Laurel) 638 0.0 0.0 0.0 0.0 0.0 0.0
+&39 Silverman, Aaron Loui (36,StFra) 517 0.0 0.0 0.0 0.0 0.0 0.0
+
+K12
+1 Aung, Christopher Lee (2,Laurel Mountain Elementary, Aust) 1237 4.5 10.5 6.5 10.5 21.0 12.0
+2 Dodd, Ariadne (1,Austin Area Homeschoolers, Austi) 1368 4.0 15.0 10.5 17.0 25.0 14.0
+3 Gao, Eric (3,Spicewood Elementary, Austin, Te) 1237 4.0 12.5 8.5 12.5 17.0 12.0
+4 Thorat, Shantanu (6,Walsh Middle School, Round Rock,) 1206 4.0 12.0 8.0 13.0 18.0 12.0
+5 Levi, Daniel (9,Cedar Valley Middle School, Roun) 1100 3.0 11.5 7.5 12.5 10.0 10.0
+6 Zheng, Michael (10,West Ridge Middle School, Westla) 1090 3.0 11.5 7.5 12.0 9.0 9.0
+7 Ramamohan, Ajit Reddy (17,Canyon Vista Middle School, Aust) 864 3.0 10.0 6.0 10.0 7.0 8.0
+8 Hall, Ian Sigourney (4,Austin Area Homeschoolers, Austi) 1222 3.0 8.5 6.0 8.5 11.5 7.5
+9 Raghuraman, Sarvesh (15,Walsh Middle School, Round Rock,) 904 3.0 8.0 5.0 8.0 5.0 6.0
+10 Marrapu, Dhanvi (5,Canyon Vista Middle School, Aust) 1217 2.5 9.0 9.0 15.5 12.0 9.5
+11 Li, Lawrence K (8,Valley View Elementary, Austin, ) 1158 2.5 5.0 5.0 9.5 4.0 5.0
+12 Yang, Ethan (7,Spicewood Elementary, Austin, Te) 1177 2.0 7.5 7.5 11.5 9.0 8.0
+13 Rachael-Homann, Gavrie (13,Garza Independence High School, ) 980 2.0 7.5 7.0 11.5 4.0 5.0
+14 Sang, Michelle C (20,Canyon Vista Middle School, Aust) 819 2.0 6.0 6.0 9.0 3.0 4.0
+15 Li, George (12,Walsh Middle School, Round Rock,) 1059 1.5 8.0 8.0 12.5 6.0 6.0
+16 Shimizu, Noah Christopher (18,LASA) 847 1.5 5.0 4.5 8.0 2.5 2.5
+17 McMinn, Elan Thomas (11,Kealing Middle School, Austin, T) 1080 1.5 4.0 4.0 6.5 3.0 5.5
+18 Desai, Paawan Kalpesh (16,Canyon Vista Middle School, Aust) 869 1.0 7.5 7.0 11.5 1.0 4.0
+19 Kulkarni, Shrivatsa R (19,Walsh Middle School, Round Rock,) 833 0.5 7.0 6.0 10.0 1.5 1.5
+20 Hong, Jaewon (14,Kealing Middle School, Austin, T) 927 0.0 0.0 0.0 0.0 0.0 0.0
+
+K12U800
+1 Blaydon, Ryan Christoph (6,West Ridge Middle School, Westla) 740 5.0 10.5 7.0 10.5 21.0 14.0
+2 Joshi, Atharva (21,Cedar Valley Middle School, Roun) 314 4.0 14.0 10.0 16.0 25.0 11.5
+3 George, Krista (7,Lake Travis Middle School, Lake ) 737 4.0 12.5 8.5 13.0 18.0 10.0
+4 Nye, Dragon (9,Garza Independence High School, ) 715 3.5 13.0 8.5 14.5 16.0 12.0
+5 Sullivan, Richard (11,Garza Independence High School, ) 701 3.5 13.0 8.5 14.5 16.0 9.5
+6 Boatwright, David (5,Garza Independence High School, ) 745 3.5 10.5 7.5 12.0 17.5 10.0
+7 Venkat, Rishi (12,Cedar Valley Middle School, Roun) 669 3.5 10.0 6.0 10.0 12.0 11.0
+8 McLemore, Conner (13,Garza Independence High School, ) 660 3.0 14.0 9.5 16.0 15.0 12.0
+9 Tirunagare, Ronith (19,Cedar Valley Middle School, Roun) 401 3.0 10.0 6.5 10.5 9.0 6.5
+10 Kyasa, Nihal (10,Canyon Ridge Middle School, Aust) 713 3.0 10.0 6.0 11.0 8.0 9.0
+11 Langert, Liam (1,Kealing Middle School, Austin, T) 784 3.0 9.5 6.5 11.0 13.5 7.0
+12 Lowden, Atticus (15,Gorzycki Middle School, Austin, ) 619 2.5 10.0 10.0 14.5 12.0 9.5
+13 Spelman, Ronan (3,Kealing Middle School, Austin, T) 765 2.5 6.0 6.0 9.5 6.0 8.0
+14 Wallace, Michael Patri (17,Kealing Middle School, Austin, T) 483 2.5 6.0 6.0 9.5 5.0 6.0
+15 McMullen, Leila Mari (8,Canyon Vista Middle School, Aust) 728 2.0 10.5 8.5 14.0 8.0 7.0
+16 Kim, Matthew Jino (26,St. Stephens Episcopal School, A) nnnn 2.0 8.0 7.0 12.0 5.0 3.0
+17 Kirby, Elizabeth R (27,Homeschool, non-AAH) nnnn 2.0 7.5 7.0 10.5 5.0 4.0
+18 Stewart, Compton M (16,St. Stephens Episcopal School, A) 551 2.0 7.0 6.0 10.5 4.0 6.0
+19 Reddy, Yashvi (2,Canyon Vista Middle School, Aust) 782 2.0 6.0 6.0 10.0 6.0 5.0
+20 Johnson, Franklin (4,Garza Independence High School, ) 753 2.0 1.0 1.0 3.0 6.0 9.0
+21 Graves, Jacob William (14,Kealing Middle School, Austin, T) 642 1.5 12.0 10.0 15.5 7.5 7.0
+22 Shah, Sahil (18,Canyon Vista Middle School, Aust) 442 1.5 8.0 8.0 11.5 6.0 6.0
+23 Nagavarapu, Kirtan (23,Harmony Science School, Austin, ) 150 1.5 6.0 6.0 8.5 1.5 2.5
+24 Kotamraju, Kartikeya A (22,Cedar Valley Middle School, Roun) 250 1.5 6.0 5.0 8.5 3.0 4.5
+25 Rodriguez, William a (24,NYOS Charter School, Austin, Tex) 101 1.5 5.0 5.0 8.5 0.0 4.0
+26 Fang, Mason Lu (20,Meridian School, Round Rock, TX) 318 1.0 9.0 9.0 13.5 0.0 3.0
+27 Keim, Liam (25,Garza Independence High School, ) nnnn 0.5 3.5 3.5 6.5 0.0 1.0
+28 Ramirez, Glenn (28,Murchison Middle School, Austin,) nnnn 0.0 0.0 0.0 0.0 0.0 0.0
+
+
+Open
+1 Oyekan, Olufemi Adebayo (1) 1965 4.0 7.5 4.5 8.5 17.0 10.0
+2 Dotson, John B (2) 1812 3.0 9.5 5.5 11.5 15.0 8.0
+3 Stidvent, Christopher Thomas (5) 1513 3.0 6.0 3.0 7.0 8.0 7.0
+4 Zheng, Vincent (3) 1713 2.5 8.5 4.5 10.0 10.5 7.0
+5 Lai, Evan Xing (15) 1216 2.5 8.0 5.0 9.5 10.5 7.0
+6 Byrapaneni, Sid (7) 1412 2.5 6.5 4.0 8.0 8.5 6.0
+7 Chennuru, Abhiram (6) 1450 2.5 5.5 3.0 7.0 7.5 6.0
+8 Pingale, Chinmay M (4,Canyon) 1581 2.0 5.0 5.0 11.0 8.0 6.0
+9 Dammann, Jorn Fabian (10) 1374 2.0 3.0 3.0 7.0 4.0 4.0
+10 Jiang, Andrew (12,Laurel) 1278 2.0 2.0 2.0 4.5 3.0 3.0
+11 Hwang, William (11) 1306 1.5 6.0 5.0 8.5 4.5 4.0
+12 Kirby, Robert C (19) nnnn 1.5 3.5 3.5 6.0 2.0 3.5
+13 Ingram, Eric Michael (8) 1404 1.5 0.5 0.5 3.0 1.0 4.5
+14 Wang, Neo (9) 1377 1.0 7.0 5.0 11.0 4.0 3.0
+15 Byrapaneni, Srini (13) 1271 1.0 4.0 3.5 7.0 1.0 3.0
+16 Ray, Thomas L (18) 191 1.0 3.0 3.0 5.0 0.0 0.0
+17 Wan, Audrey X (14) 1265 1.0 2.5 2.5 5.0 2.5 2.5
+18 Chennuru, Venkat (17) 977 0.5 1.5 1.5 3.5 0.0 1.5
+19 Nguyen, Mark (16) 1061 0.0 0.0 0.0 0.0 0.0 0.0
+
+
+

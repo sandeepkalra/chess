@@ -1,0 +1,241 @@
+===============u1600
+Evan	Lai
+Jason	Nguyen
+Wesley	Yeung
+Ganesh	Kumarappan
+Jatin	Aggarwal
+Aparna	Yellamraju
+Ambica	Yellamraju
+Kevin	Han
+Manika	Aggarwal
+Mihit	Garlanka
+Anoop	Rachakonda
+Lucas	Ngo
+Rohith	Gajjala
+Apurva	Gobburu
+
+
+
+===============U600
+Darren	Han
+Peter	Hewett
+Shreya	Ganti
+Nayan	Bhirud
+Allison	Nguyen
+Ishan	Dasgupta
+Jason	Darmawan
+Rishi	Baranga
+Rayyaan	Farooqui
+Kalia	Wang
+Isbella	Yi
+Siona	Shah
+Dhruv	Pant
+
+
+===============U300
+Ethan	Andrew
+Grace	Hewett
+Halli	Hewett
+Ishaan	Sampat
+Lea	Chong
+Siona	Shah
+
+
+===============5thGrade
+Ian	Kim
+Kevin	Son
+Apoorva	Selvakumar
+Annie	Kim
+Christopher	Huh
+Pranay	Mangaonkar
+Pranav	Somwanshi
+Deven	Bibikar
+Lucas	Rabinovich
+Samuel	Ngai
+Rakshinee	Sreekanth
+Andres	Sanchez
+Abigail	Wignall
+Keshav	Laxminarasimhan
+
+
+
+=============== 4thGrade
+Alex	Kalakanis
+Aravindh	Diwakar
+Ashish	Jacob
+Jack	Ziebell
+Kevin	Yu
+Naidhruva	Deb
+Sara	Garg
+
+=============== 3rdGrade
+Alex	Millian
+Banks	Ryan
+Charlotte	Stidvent
+Ethan	Ho
+Ethan	Liu
+Haoze	Wang
+Jackson	Baker
+Jennifer	Dai
+Matthew	Rao
+Michael	Rao
+Pranavi	Veluguleti
+Sebastien	LeRiche
+Shreyas	Nayakam
+Srinivas	Vadhiraj
+Yuhua	Zhou
+
+
+  
+=============== 2ndGrade
+Ava	Domingue
+Eileen	Zhao
+Elisey	Metzler
+Emily	Graham
+Gopika	Rajalal
+Grace	Huh
+Kael	Knudson
+Luke	Bradburn
+Michelle	Huang
+Owen	Doerle
+Rifah	Mirza
+Rishitha	Balla
+Shuyu	Lai
+Zoe	Chen
+Shreyas	Dhagay
+
+
+
+===============1stGrade
+Adriana	Cheng
+Annie	Zhu
+Auden	Sandvig
+Evelyn	Stidvent
+Isbella	Yi
+Jacob	Zeng
+Jason	Francis
+Nairrita	Deb
+Ryan	Gu
+Shiv	Garg
+Siddharth	Tripathi
+Sophia	Zhang
+Will	Baker
+Alan	Morillo
+Liang-You	Ban
+Vedanth	Desai
+Sundar	Carey
+Jason	Li
+
+=============== KGrade
+Amrita	Josyula
+Grace	Zeng
+Justin	Chen
+Kavin	Kannan
+Max	Laine
+Michael	Qu
+Pratyush	Sinha
+RithvikSai	Kambham
+Saaketh	Boyapalle
+Shiven	Makkar
+Shreyan	Khanna
+Tejan	Bhirud
+
+
+===============Monday
+Aarush	Anand
+Meera	Iyengar
+Viraj	Gadiya
+Satyanandana	Thallam
+Ryan	Lee
+Daniel	Nam
+Martin	Aburto Solari
+Luke	Chandler
+Zeren	Johnson
+Anishka	Basu
+Krishiv	Potluri
+Srinesh	Pentam
+Shresht	Hunnolli
+Shreya	Chejara
+Ruhan	Gupta
+Varun	Koneru
+Vedant	Desai
+Dhriti	Saani
+
+===============Tuesday
+Saaketh	Boyapalle
+Anshuman	Garg
+Ethan	Sze
+Omar	Aziz
+Vishnu	Muthuraman
+Vivian	Hapka
+Dhruv	Patil
+Anika	Katta
+Rithvik	Umesha
+Anannya	Sathaye
+Shriya	Kota
+Shiven	Makkar
+Gautham	Gowda
+Sarayu	Danala
+Samriddhi	Garlanka
+Rithvik	Hegde
+Serafima	Ivanova
+
+===============Wednesday
+Berntrand	Qu
+Ishaan	Ammundi
+Haruki	Sukegawa
+Kaya	Chen
+Aidan	Embestro
+Shaurya	Pathania
+Neel	Kotichintala
+Zachary	Gawiser
+Kirti	Ragavan
+Shreyas	Nayakam
+Suleyman	Shah
+Armaan	Srireddy
+Ninaad	Patil
+Brian	Nam
+Luc	Schwalm
+Vikranth	Ragavan
+Daniel	Yang
+Tomas	Rey-Martinez
+
+===============Thursday
+Suchir	Kumar
+Romir	Jain
+Ajith Reddy	Bandlapalli
+Jishnu	Saani
+Anvith	Maddipoti
+Alex	Kim
+Advik	Umesha
+Arnav	Machavarapu
+Divyesh	Kotthakota
+Aneesh	Vanguri
+Rohan	Engineer
+Carter	Brezina
+Hyunwoo	Chong
+Vineet	Burugu
+Akaash	Khurana
+Aayush	Kumar
+Saaketh Ram	Vedula
+
+
+===============Friday
+Adam	Menezes
+Ram	Sivaraman
+Sakthivel	Vijayakumar
+Christopher	Aung
+Rohit	Gundam
+Neil	Choudhary
+Saaketh	Maddala
+Kartik	Kalra
+Leah	Wang
+Mark	Menezes
+Siddharth	Vadlamani
+Hrushikesh	Saranu
+Rohith Reddy	Gajjala
+Aditya	Jandhyala
+Sydney	Yeung
+Sraavya	Danala
+Tanvi	Reddy
+Aadet	Samant

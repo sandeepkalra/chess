@@ -1,0 +1,656 @@
+R6Adult
+
+1. Lau, Robert (1) ................................... TX 2236 W22 W8 W3 W6 4.0
+2. Macartney-Filgate, Bruce (5) ............. TX 1900 W23 W21 W9 -H- 3.5
+3. Gucer, Vasfi (4) .................................. TX 1956 W12 W13 L1 W7 3.0
+4. Dotson, John B (7) ............................. TX 1809 W17 L6 W21 W13 3.0
+5. Stidvent, Christopher Thom (9).......... TX 1475 L13 W23 W18 W10 3.0
+6. Loyola, Eduardo (2)............................ TX 2069 W16 W4 D7 L1 2.5
+7. Oyekan, Olufemi Adebayo (3)............ TX 1973 W11 W10 D6 L3 2.5
+8. Ingram, Michael David (6).................. TX 1851 W20 L1 W11 -H- 2.5
+9. Reddy, Subba C (11) ......................... TX 1228 -H- W14 L2 W15 2.5
+10. Furlong, Calvin (8) ............................. TX 1500 W18 L7 W17 L5 2.0
+11. Nguyen, Mark (16) ............................. TX 980 L7 W19 L8 W21 2.0
+12. Ethirajan, Muthu (17).......................... TX 844 L3 L18 W20 W22 2.0
+13. Jetty, Venkata (22) ............................. TX nnnn W5 L3 W14 L4 2.0
+14. Prodduturu, Sukesh Reddy (10)......... TX 1288 W19 L9 L13 D18 1.5
+15. Alvarado-Rivera, Antonio (13) ........... TX 1221 L21 W20 -H- L9 1.5
+16. Madsen, Stuart Scott (15) .................. TX 1105 L6 L17 W22 D19 1.5
+17. Hernandez, Paul H (20) ..................... TX 316 L4 W16 L10 -H- 1.5
+18. Sivaraman, Ganesh (24).................... TX nnnn L10 W12 L5 D14 1.5
+19. Pearson, Warren Jay (23).................. TX nnnn L14 L11 -X- D16 1.5
+20. MacFarland, Robert Andrew (19) ...... TX 555 L8 L15 L12 W23 1.0
+21. Han, Hyon (21) ................................... TX nnnn W15 L2 L4 L11 1.0
+22. Jacob, Lijoy (14)................................. TX 1216 L1 -H- L16 L12 0.5
+23. Ray, Thomas L (18) ........................... TX 593 L2 L5 -Z- L20 0.
+
+R6HighSchoolChampionship
+
+1 Kaliyur, Rohith (2) 1986 4.0 13.5 14.5 13.0 47.0
+2 Lu, Andrew (1) 2194 4.0 12.5 12.5 14.0 41.0
+3 Weston, Grant Montagu (5) 1604 3.5 12.5 14.5 11.0 39.5
+4 Herrera, Blake (4) 1687 3.5 10.0 11.0 8.5 32.5
+5 Quach, Alexander (3) 1778 3.0 12.5 13.5 11.0 43.0
+6 Montez, Andrew (6) 1573 3.0 12.0 13.5 9.0 41.5
+7 Karuturi, Tejas (9) 1480 3.0 7.0 8.0 7.0 28.5
+8 Odom, Barret (8) 1547 2.5 8.5 14.0 8.0 42.5
+9 Alvarado, Antonio (10) 1284 2.5 6.5 10.5 6.0 29.5
+10 Montez, Michael (7) 1550 2.5 3.5 8.0 7.0 28.5
+11 Pingale, Gargi Mahendra (15) 1109 2.0 6.5 9.5 4.0 29.0
+12 Desai, Kush Kalpesh (14) 1175 2.0 6.0 9.5 3.0 29.5
+13 Lee, Brandon Vance (13) 1180 1.5 10.5 14.0 5.5 34.5
+14 Hall, Ian Sigourney (11) 1241 1.5 7.5 11.0 2.0 29.5
+15 Kang, Jhiling (16) 1032 1.0 10.5 13.5 5.0 39.0
+16 Hernandez, Ian (17) 943 1.0 9.0 13.0 5.0 34.0
+
+R6HighSchoolVarsity
+1 Kalidas, Ashwin (8) 791 4.5 12.5 12.5 12.0 41.5
+2 Rachael-Homann, Gavriel (4) 864 4.0 14.0 15.0 11.5 46.5
+3 Bandaru, Vishal (20) nnnn 4.0 12.5 14.5 11.5 44.5
+4 Correa, Ramon (6) 832 4.0 12.0 13.5 14.0 41.0
+5 Crockett, Will (12) 727 3.0 14.0 15.5 12.0 49.5
+6 Rodriguez, Jacob (1) 915 3.0 11.5 12.0 8.0 41.5
+7 Shimizu, Noah Christopher (3) 880 3.0 11.0 12.5 8.0 42.0
+8 Lux, Pierce Allen (14) 499 3.0 10.5 12.0 8.0 36.5
+9 Barr, Christian (2) 888 3.0 10.5 11.5 9.0 36.5
+10 Uhlig, Sarah Daniela (7) 809 3.0 9.5 10.0 8.0 32.0
+11 Johnson, Franklin (9) 758 2.5 9.0 14.5 10.0 39.5
+12 Valdez, Nathanial (18) 356 2.5 4.5 7.5 6.0 25.0
+13 McLemore, Conner (13) 674 2.0 10.0 14.0 6.0 45.0
+14 Sullivan, Richard (11) 728 2.0 9.0 13.0 6.0 37.5
+15 Nye, Dragon (10) 755 2.0 9.0 12.0 8.0 37.0
+16 Owens, Makena (17) 367 2.0 8.0 12.0 3.0 37.0
+17 Ventura, Eben (16) 384 2.0 7.5 9.5 7.0 27.0
+18 Boatwright, David (5) 855 2.0 7.0 10.0 6.0 27.0
+19 Campion, Thomas (21) nnnn 2.0 3.5 6.0 2.0 21.0
+20 Valenzuela, Nouh (15) 438 1.0 8.5 12.5 3.0 34.5
+21 Kirkpatrick, Julian (19) 320 1.0 6.5 9.5 2.0 24.0
+22 Gonzalez, Ventura (22) nnnn 0.0 0.0 0.0 0.0 0.0
+&23 Keim, Liam (23) nnnn 0.0 0.0 0.0 0.0 0.0
+
+K1 Novice
+1 Magee, Maximiliano Hondo Mi (52) nnnn 5.5 22.0 24.5 20.0 86.0
+2 Arram, Siddharth K (2) 271 5.0 21.0 24.0 18.5 84.0
+3 Nakkala, Sharvi Reddy (57) nnnn 5.0 19.0 21.0 18.0 82.0
+4 Sehgal, Aryan (63) nnnn 5.0 17.0 19.5 16.0 72.0
+5 MacFarland, Robbie (5) 232 4.5 20.0 20.0 16.5 73.5
+6 Laddha, Shubh Jayesh (47) nnnn 4.5 19.5 22.5 17.5 80.0
+7 Melillo, Lucius (20) 105 4.5 14.0 14.0 14.5 52.0
+8 Mupparapu, Sriram Prasad (55) nnnn 4.0 20.0 22.0 16.5 69.0
+9 Bamb, Paarth Preetam (26) nnnn 4.0 19.0 21.5 16.0 79.5
+10 Bhupatiraju, Abhiram (30) nnnn 4.0 18.5 19.5 15.0 71.5
+11 Banoth, Advaith Veer (27) nnnn 4.0 18.0 20.5 12.0 78.0
+12 Potluri, Krishiv Raghava (60) nnnn 4.0 16.0 17.0 14.0 59.5
+13 Hegde, Rithvik (40) nnnn 4.0 15.0 16.0 11.5 61.0
+14 Leifeste, Miles Rae (6) 207 3.5 20.0 22.0 13.5 77.0
+15 Sandvig, Auden (12) 118 3.5 18.5 21.5 13.0 72.0
+16 Arunkumar, Surya Ethan (24) nnnn 3.5 16.5 17.5 13.0 63.5
+17 Malpani, Ayan (53) nnnn 3.5 16.0 17.5 9.0 57.5
+18 Jones, Dean William (42) nnnn 3.5 15.5 17.5 11.0 64.5
+19 Jayendran, Niranjana (41) nnnn 3.5 15.5 16.5 12.0 50.5
+20 Kommuri, Siddharth Satya (46) nnnn 3.5 13.0 13.0 10.5 53.5
+21 Garg, Shiv (39) nnnn 3.5 12.0 12.0 10.5 44.5
+22 Sze, Ethan (1) 290 3.0 18.0 26.0 14.0 90.5
+23 Stidvent, Evelyn Rey (21) 105 3.0 14.0 20.5 13.5 71.5
+24 Kanna, Basant (15) 114 3.0 13.0 20.0 13.5 71.5
+25 Mishra, Urjith (54) nnnn 3.0 12.5 19.5 12.0 69.0
+26 Moore, Vivian Grace (13) 117 3.0 12.0 18.0 13.0 63.5
+27 Barre, Sahasra Reddy (28) nnnn 3.0 12.0 17.5 8.5 62.0
+28 Laddha, Yash Jayesh (48) nnnn 3.0 11.5 17.5 9.0 61.5
+29 Villarreal, Lamia (7) 193 3.0 11.5 16.0 11.5 53.0
+30 Zeng, Jacob Meng (70) nnnn 3.0 11.0 17.5 10.0 62.5
+31 Whelan, Connor (68) nnnn 3.0 11.0 17.5 9.0 66.5
+32 Long, Cameron Eilsabeth (50) nnnn 3.0 10.5 14.0 11.0 48.5
+33 Lakhia, Vishan (49) nnnn 2.5 14.5 18.5 10.5 62.5
+34 Datta, Aseem Perin (36) nnnn 2.5 13.0 16.5 10.0 62.5
+35 Kime, Eden (44) nnnn 2.5 12.5 15.5 7.5 49.5
+36 Boyapalle, Saaketh Reddy (14) 116 2.5 12.0 16.5 9.0 58.5
+37 Martinez, Joaquin Trent (22) 103 2.5 12.0 16.5 8.0 53.5
+38 Kambham, Rithvik (3) 250 2.5 12.0 16.0 7.0 57.0
+39 Daryani, Pragya Santosh (35) nnnn 2.5 11.5 15.0 9.0 50.0
+40 Bartlett, Rowan Harold (29) nnnn 2.5 11.0 14.5 7.0 45.0
+41 Land, Adrien Pilot (11) 118 2.5 10.0 15.0 6.0 41.5
+42 Dabhade, Ishaan (34) nnnn 2.5 10.0 13.0 6.5 43.5
+43 Nallamilli, Sampreeth Reddy (58) nnnn 2.5 9.5 14.0 6.5 40.0
+44 Shieh, Zane (64) nnnn 2.5 8.5 12.5 9.0 38.0
+45 Jetty, Abhiram (18) 109 2.5 7.0 11.0 9.5 35.0
+46 Frey, Tobias Julian (38) nnnn 2.5 4.0 9.5 11.0 29.0
+47 Chagarlamudi, Aadhya (32) nnnn 2.0 16.0 20.0 10.5 69.0
+48 Ujjval, Aanya Sonali (66) nnnn 2.0 14.5 18.5 8.5 57.5
+49 Kim, Daniel Ji-Ho (43) nnnn 2.0 13.5 17.5 7.5 61.0
+50 Anand, Aarush (23) nnnn 2.0 13.5 17.0 8.0 56.0
+51 Tripathi, Siddharth (65) nnnn 2.0 10.5 14.0 3.0 39.5
+52 Kodali, Aditi Sri (45) nnnn 2.0 10.0 12.5 5.0 34.0
+53 Davis, Vivienne (17) 110 2.0 9.5 14.5 4.5 42.5
+54 Burk, Colin Edward (31) nnnn 2.0 3.5 7.0 9.0 24.0
+55 Murugan, Varun (56) nnnn 1.5 7.0 10.5 3.5 27.5
+56 Depta, John Robert (37) nnnn 1.5 5.5 8.5 8.5 34.0
+57 Sampat, Ishaan (9) 173 1.5 5.0 10.5 6.0 34.5
+58 Babbar, Gauri (25) nnnn 1.5 4.5 8.5 6.0 27.5
+59 Patil, Krish (59) nnnn 1.5 0.0 2.0 6.5 5.5
+60 Deane, Millie (10) 141 1.0 13.5 17.5 3.5 51.0
+61 Muthuswamy, Roshni (16) 112 1.0 8.5 12.0 5.5 29.5
+62 Long, Charlotte Miller (51) nnnn 0.5 9.5 12.5 2.5 38.5
+63 Chalasani, Meghna (33) nnnn 0.5 5.0 8.5 3.0 26.0
+64 Sanghavi, Varun (62) nnnn 0.5 0.0 0.0 2.5 0.0
+&65 Vazquez, Ian (67) nnnn 0.5 0.0 0.0 2.5 0.0
+66 Qiu, Yifan (8) 179 0.5 0.0 0.0 1.5 0.0
+67 Gautam, Avani (19) 107 0.0 9.5 13.5 0.0 49.0
+68 Yarbrough, Samuel Henry (4) 245 0.0 0.0 0.0 0.0 0.0
+&69 Rabishanker, Veda (61) nnnn 0.0 0.0 0.0 0.0 0.0
+&70 Withers, Amsden Rayder (69) nnnn 0.0 0.0 0.0 0.0 0.0
+
+
+K3PrimaryChampionship
+1 Gumbula, Saaj Reddy (4) 1111 4.5 15.0 17.0 14.5 52.0
+2 Gundam, Rohit (3) 1191 4.0 13.5 15.0 13.0 47.0
+3 Wan, Audrey X (2) 1213 4.0 12.5 14.5 12.0 43.5
+4 Zou, Eric Jun (1) 1243 3.5 14.5 17.0 11.5 53.0
+5 Dodd, Circe (9) 999 3.5 10.5 11.5 9.5 42.0
+6 Zhao, Eason Yichen (13) 850 3.5 7.0 7.0 9.0 28.5
+7 Tunks, Caleb Barrett (18) 734 3.0 11.5 11.5 9.0 36.0
+8 Kunka, Harshid (6) 1042 3.0 11.0 11.5 10.0 37.0
+9 Balasubramanian, Visshwa (11) 901 3.0 10.5 10.5 8.0 31.0
+10 Duggirala , Bhavyashree (10) 924 3.0 9.0 10.0 6.0 29.5
+11 Chennuru, Anshu (5) 1046 2.5 8.5 13.0 9.5 41.0
+12 Rodriguez, Alexander Philip (8) 1032 2.5 6.0 11.0 7.0 33.5
+13 Goyal, Shreev (7) 1036 2.0 10.0 14.0 8.0 40.0
+14 Bermea, Edgar (15) 824 2.0 8.5 13.0 6.0 38.0
+15 Jain, Romir (21) 593 2.0 8.5 12.0 7.0 30.0
+16 Tang, Ethan Tingyi (12) 871 2.0 6.0 10.0 3.0 30.5
+17 Leong, Ivan TengYuk (19) 728 2.0 6.0 9.0 4.0 27.5
+18 Hernandez, Gabriel Enrique (17) 814 1.5 10.5 14.0 5.5 38.0
+19 Hwang, Alexis (14) 845 1.5 8.5 12.5 5.0 34.0
+20 Jayakumar, Karthik (22) 522 1.5 7.5 11.0 5.5 32.0
+21 Sivaraman, Ram (20) 649 1.0 6.5 9.5 1.0 22.5
+22 Modi, Aariv Jai (16) 818 0.5 5.0 8.0 1.5 24.0
+
+U300PrimaryNovice
+1 Vazquez, Ian (89) nnnn 5.5 20.0 22.0 20.5 77.5
+2 Prakash, Aditya (12) 191 5.5 19.0 20.0 20.5 76.5
+3 Pilli, Saketh (73) nnnn 5.5 16.5 16.5 17.5 67.5
+4 Reddy, Gohith Nukala (11) 211 5.0 19.5 21.5 19.0 83.0
+5 Nguyen, Allison QuynhChau (9) 222 5.0 19.5 21.5 17.0 79.0
+6 Kommuri, Sarayu Bhaskara (22) 133 5.0 17.5 20.5 16.5 74.0
+7 Chitari, Aarnav (20) 147 5.0 17.5 20.0 17.0 75.0
+8 Sharma, Aarav (79) nnnn 4.5 18.0 18.0 15.5 55.0
+9 Bura, Achintya (25) 115 4.5 17.0 19.0 15.5 72.5
+10 Mehta, Yash A (21) 140 4.0 20.5 22.5 17.0 75.5
+11 Bailey, Conner (41) nnnn 4.0 20.5 21.5 17.0 78.5
+12 Von Liebermann, Miles (90) nnnn 4.0 20.0 22.0 16.0 85.0
+13 Raghuraman, Visvesh (75) nnnn 4.0 20.0 21.5 17.0 78.0
+14 Cheng, Hilary (6) 258 4.0 20.0 20.0 17.0 69.0
+15 Addala, Sahasra (38) nnnn 4.0 17.5 20.0 14.0 73.5
+16 Kahlor, Gigi Leigh (14) 189 4.0 17.5 19.0 15.0 69.0
+17 Sakthivel, Akil (76) nnnn 4.0 17.5 19.0 13.0 69.0
+18 Bitla, Abhiram (43) nnnn 4.0 17.5 18.5 13.0 67.5
+19 Lee, Ryan Jiwon (60) nnnn 4.0 16.5 18.5 14.5 67.5
+20 Burugu, Vineet Sai (45) nnnn 4.0 16.0 17.0 12.0 60.5
+21 Pantle, Lucien (71) nnnn 4.0 14.5 16.0 12.0 53.5
+22 Kokinda, Fritz (57) nnnn 4.0 14.5 14.5 10.5 45.0
+23 Buddha, Rishika (17) 179 4.0 13.5 15.5 11.5 54.5
+24 Sogani, Swasti (82) nnnn 3.5 21.0 22.0 15.5 80.0
+25 Jalbert, Caden R (15) 183 3.5 20.0 22.0 14.5 80.5
+26 Lopez, LJ Benjamin (63) nnnn 3.5 18.5 20.0 14.0 66.0
+27 Ekambaram, Guha (1) 290 3.5 18.5 18.5 11.5 63.5
+28 Couch, Benjamin Douglas (48) nnnn 3.5 17.0 17.0 10.0 59.5
+29 Deane, Holland (3) 284 3.5 14.0 16.0 10.0 60.5
+30 Springer, Finn Revere (83) nnnn 3.5 14.0 15.5 10.0 58.0
+31 Ballada, Rishi Ravi (19) 170 3.5 11.5 11.5 13.0 39.0
+32 Stidvent, Charlotte Marie (4) 260 3.5 11.5 11.5 11.5 44.0
+33 Sanil, Gautham (77) nnnn 3.5 11.5 11.5 7.5 39.0
+34 Piper, Sydney Elizabeth (8) 237 3.0 16.0 23.0 15.0 82.0
+35 Pathania, Shaurya (72) nnnn 3.0 13.0 20.0 10.0 62.5
+36 Mahableshwarkar, Arjun (65) nnnn 3.0 12.5 19.5 11.0 64.5
+37 Anna, Anirvin (34) 105 3.0 12.5 19.5 9.0 68.5
+38 Ganesh, Kaavya (26) 114 3.0 12.5 17.5 12.0 61.0
+39 Gawiser, Zachary Aaron (53) nnnn 3.0 12.0 19.5 11.5 71.5
+40 Esteves, Sergio M (52) nnnn 3.0 12.0 18.0 11.0 56.0
+41 Lakhia, Shalin (58) nnnn 3.0 12.0 17.0 11.0 56.0
+42 Shashikiran, Sarayu (24) 121 3.0 12.0 16.0 8.0 51.5
+43 Tan, Aaron Tee Yong (86) nnnn 3.0 11.0 17.5 9.0 57.0
+44 Sabnis, Avni (31) 107 3.0 11.0 16.0 8.0 56.0
+45 Dharshan, Harish (13) 189 3.0 11.0 16.0 8.0 47.5
+46 Suthakar, Sobhisri (85) nnnn 3.0 10.5 16.0 10.0 51.0
+47 Carthikeyan, Anandika (46) nnnn 3.0 8.5 12.5 10.5 47.5
+48 Prabhakar, Neel (74) nnnn 2.5 18.5 22.5 12.5 74.5
+49 Adoni, Sunayna (39) nnnn 2.5 15.0 20.0 9.0 60.5
+50 Martinez, Antonio R (18) 173 2.5 15.0 19.0 9.0 63.5
+51 Kumar, Aayush Keshav (5) 259 2.5 12.0 17.5 10.5 59.0
+52 Lee, Jiho (59) nnnn 2.5 11.5 15.5 9.5 54.0
+53 Deane, Harry (49) nnnn 2.5 11.0 16.0 12.5 55.0
+54 Ellington, Zack (51) nnnn 2.5 10.0 14.0 10.5 51.0
+55 Qu, Berntrand Wei (30) 107 2.5 9.0 12.5 7.0 40.5
+56 Macartney-Filgate, Christoph (7) 253 2.5 7.5 12.0 9.5 38.5
+57 Delaney, Kaylie (28) 107 2.5 6.5 9.5 3.0 30.5
+58 Balaji, Prarthana (42) nnnn 2.5 6.0 10.5 9.5 37.5
+59 Gupta, Avyay (55) nnnn 2.0 14.5 19.0 9.5 61.0
+60 Valadez, Alejandro Miguel Z (87) nnnn 2.0 11.5 17.0 8.0 58.5
+61 Valentine, Gabriel (88) nnnn 2.0 11.5 16.5 7.0 55.0
+62 Berhane, Brianna Mary (27) 111 2.0 11.5 15.5 6.0 54.0
+63 Shirtekar, Varun R (81) nnnn 2.0 11.0 16.0 9.0 59.5
+64 Vazzalwar, Rithik Samarth (16) 180 2.0 11.0 15.0 9.0 55.5
+65 Gupta, Saumitra (10) 219 2.0 11.0 15.0 6.5 45.5
+66 Maughn, Austin (66) nnnn 2.0 11.0 14.0 8.0 45.5
+67 Deepak, Anagha (50) nnnn 2.0 10.5 15.5 5.5 45.0
+68 Ventura, Ezra (35) 103 2.0 10.5 14.5 7.0 47.0
+69 Kota, Shriya Reddy (36) 101 2.0 10.5 14.5 6.0 44.5
+70 Maberry, Jaedon (64) nnnn 2.0 10.5 14.5 4.5 44.0
+71 Sathaye, Anannya Swati (78) nnnn 2.0 10.5 13.5 4.0 33.5
+72 Nam, Daniel Jangho (69) nnnn 2.0 9.0 13.0 8.0 43.5
+73 Panchal, Kedar (70) nnnn 2.0 8.5 11.5 6.0 32.5
+74 Kotichintala, Neel (37) 101 2.0 7.0 11.5 5.5 38.5
+75 Badrayani, Amogh Anant (40) nnnn 2.0 7.0 11.0 2.0 36.5
+76 Winesett, Lemuel (2) 285 2.0 6.5 10.5 9.0 34.5
+77 Shieh, Rylie (80) nnnn 2.0 5.5 9.5 7.0 36.0
+78 Gunturu, Uday Krishna (54) nnnn 1.5 11.0 16.5 8.0 56.5
+79 Villarreal, Gaia (33) 106 1.5 9.5 13.0 4.5 44.0
+80 Burk, Davis Aaron (44) nnnn 1.5 7.0 11.0 7.0 37.0
+81 Legault, Casper (61) nnnn 1.5 6.0 9.5 4.0 35.5
+82 Chagarlamudi, Adith Sai (47) nnnn 1.0 11.5 15.5 5.0 51.0
+83 Depta, Cassia Augusta (29) 107 1.0 10.5 14.5 3.0 47.0
+84 McAfee, Amelia (67) nnnn 1.0 10.0 15.5 2.0 45.0
+85 Bhat, Saanvi (32) 106 1.0 10.0 14.0 4.0 45.0
+86 Gupte, Tanvi (56) nnnn 1.0 9.0 13.0 2.5 42.5
+87 Linan, Jeb (62) nnnn 1.0 7.5 11.0 4.0 36.0
+88 Stone, Sophie M (84) nnnn 0.5 0.0 2.0 2.5 4.0
+89 Linam, Rayce (23) 123 0.5 0.0 0.0 0.5 0.0
+90 Nallamilli, Sampreeth Reddy (68) nnnn 0.0 0.0 5.5 0.0 20.5
+
+R6PrimaryJV
+1 Aggarwal, Raghav (1) 494 6.0 21.0 23.0 21.0 86.0
+2 Quitta, Austin (34) 392 5.0 21.0 23.0 18.0 89.5
+3 Balasubramanian, Sanjay (13) 458 5.0 18.5 19.0 20.0 70.5
+4 Choudhary, Arhant (55) 327 5.0 17.0 17.0 16.0 63.0
+5 Kevorkian, Milo Makoto Paul (12) 460 5.0 16.5 17.5 16.0 63.5
+6 Gao, Tianwen (72) nnnn 5.0 16.0 18.0 15.0 69.5
+7 Higginbotham, Andrew (14) 456 4.5 10.5 10.5 14.0 34.0
+8 Arram, Suprathik Nath (32) 396 4.0 21.0 23.5 14.0 77.0
+9 Saravanan, Nikhil (7) 486 4.0 21.0 22.5 18.0 77.0
+10 Ma, Steven (27) 410 4.0 19.5 22.0 15.0 78.0
+11 Alagar, Marcus Vincent P (42) 364 4.0 19.5 21.5 16.0 83.0
+12 Kapasi, Salim Silk (11) 477 4.0 19.5 21.5 14.0 71.5
+13 Kanna, Bhuvan (21) 429 4.0 19.0 21.5 15.0 76.0
+14 Samuel, Joshua (67) 274 4.0 19.0 21.0 16.5 78.5
+15 Bhattacharya, Shubhangi (22) 428 4.0 18.0 20.0 16.0 75.0
+16 Salgado, Samantha (39) 376 4.0 17.5 20.0 15.5 75.5
+17 Gujrathi, Anay (15) 452 4.0 16.5 19.0 13.5 68.0
+18 Murray, Xander T (68) 260 4.0 14.5 16.5 11.0 52.0
+19 Zhao, Raymond Ruiming (29) 407 4.0 13.5 13.5 12.0 52.5
+20 Harris, Christian (30) 406 3.5 19.5 22.5 14.5 79.0
+21 Wang, Kalia Yuke (35) 381 3.5 19.0 19.0 13.0 70.0
+22 Lucente, Owen M (23) 424 3.5 17.5 19.0 14.5 64.0
+23 Saani, Jishnu Sai (66) 286 3.5 16.5 18.0 10.5 54.0
+24 Choudhary, Rhea (64) 310 3.5 15.5 15.5 10.5 57.5
+25 Thompson, Henry El (69) 242 3.5 14.5 14.5 12.5 43.5
+26 Roselle, Sadie Ruth (65) 310 3.5 14.5 14.5 11.5 53.5
+27 Figueroa, Nicholas (59) 316 3.5 14.0 14.0 9.0 42.5
+28 Shivam, Annika E (53) 337 3.5 13.0 13.0 11.0 41.5
+29 Mukkollu, Mohit (16) 449 3.0 13.5 20.5 14.0 72.5
+30 Reddy, Tanvi C (6) 487 3.0 13.0 19.5 13.0 71.5
+31 Kim, Peter Youngjoon (62) 314 3.0 12.5 20.0 11.0 68.5
+32 Anand, Shaktivel (54) 328 3.0 11.5 17.0 11.0 58.5
+33 Bao, Edward Ming (3) 490 3.0 11.0 16.5 6.0 55.5
+34 Tunks, Daniel Franklin (33) 396 3.0 11.0 15.0 8.0 56.5
+35 Dasari, Anirudh (20) 430 3.0 10.0 15.5 10.0 49.0
+36 Mirwani, Darsh Ram (10) 479 3.0 10.0 14.0 9.0 48.0
+37 Johnson, Mikko Alexander (8) 482 3.0 9.5 13.5 9.0 47.5
+38 Venton, Adam Stanley (37) 380 3.0 9.0 15.0 5.0 47.5
+39 Ramos, Rudy (2) 492 3.0 7.5 12.5 12.0 49.5
+40 Davis, Oliver (5) 487 2.5 16.5 21.5 9.0 68.0
+41 Kumar, Suchir (51) 341 2.5 15.5 19.5 10.5 67.5
+42 Bradford, Caden James (56) 325 2.5 14.5 18.5 9.0 57.0
+43 John, Isaiah (24) 421 2.5 12.0 17.0 8.0 53.5
+44 Sarode , Shone Abhay (40) 372 2.5 11.0 14.0 6.5 46.5
+45 Kilian, Cole Christopher (4) 488 2.5 8.0 12.0 9.5 47.0
+46 Ramesh, Avaneesh (61) 315 2.5 3.5 7.5 10.0 25.0
+47 Gedala, Aarav (57) 323 2.0 14.0 19.0 8.0 63.5
+48 Kime, Asher (44) 363 2.0 13.0 18.0 8.0 57.5
+49 Wu, Minyuan (73) nnnn 2.0 12.5 17.5 9.0 63.0
+50 Sorensen, Avery N (71) 103 2.0 12.5 15.5 8.0 46.5
+51 Christian, Bryce (9) 481 2.0 11.5 15.5 7.0 51.0
+52 Schroeder, Luke Price (26) 413 2.0 11.0 17.0 11.0 58.0
+53 Jin, Justin (43) 364 2.0 10.5 15.5 8.0 53.0
+54 Sotello, Joshua Joe (63) 312 2.0 10.5 14.5 9.0 52.5
+55 Villanueva, Noah (25) 417 2.0 10.0 13.5 8.0 43.5
+56 Whelan, Luke Temple (52) 338 2.0 7.5 10.5 4.0 37.0
+57 Ragavan, Kirti P (36) 380 1.5 11.5 15.0 5.0 47.5
+58 Oddo, Harrison Mitchell (58) 318 1.5 9.5 13.0 2.5 40.5
+59 Jones, Charles Draden (28) 409 1.5 9.0 12.0 4.5 44.0
+60 Zimmermann, Zach Marc (50) 346 1.5 7.5 10.5 4.0 36.0
+61 Whelan, John Matthew (31) 402 1.5 6.5 10.5 5.0 39.5
+62 Menezes, Adam (19) 432 1.5 5.5 9.0 3.5 28.0
+63 Miles, Owen (49) 346 1.5 5.0 9.0 6.0 33.5
+64 Woodley, Sterling William (46) 352 1.0 9.5 14.5 2.0 41.5
+65 Thallam, Satyanandana (48) 348 1.0 8.0 13.0 0.0 33.0
+66 Koneru, Ritvik (45) 361 1.0 6.5 10.5 3.0 29.0
+67 Garibay, Rorian (60) 316 1.0 0.0 0.0 5.0 0.0
+68 Raghavan, Nisha (41) 365 0.5 9.0 13.0 2.5 42.5
+69 Robinson, Jacob Samuel (47) 351 0.5 8.5 13.5 1.5 45.5
+70 Serna, Richard (17) 445 0.0 0.0 0.0 0.0 0.0
+&71 Vedere, Kaarthikeya (18) 443 0.0 0.0 0.0 0.0 0.0
+&72 Han, Darren R (38) 378 0.0 0.0 0.0 0.0 0.0
+&73 Canales, Isabella G (70) 231 0.0 0.0 0.0 0.0 0.0
+
+R6PrimaryVarsity
+1 McMullen, Niko Shayan (19) 601 5.0 13.0 14.0 15.0 46.0
+2 Jere, Bela Hemant (10) 663 4.0 15.5 17.5 13.0 54.0
+3 Bandaru, Varun (32) 534 4.0 12.5 13.5 12.0 43.0
+4 Punalekar, Aryan Amit (13) 631 4.0 12.5 13.0 14.0 43.0
+5 Tripathi, Ayush Deo (3) 728 4.0 11.0 12.5 12.0 40.5
+6 Poovannan, Kavin (11) 646 4.0 11.0 12.5 10.0 38.5
+7 Vijayakumar, Sakthivel (12) 646 3.5 11.0 11.0 11.0 33.0
+8 Sobotka, Noah (2) 735 3.5 8.5 10.0 8.0 37.0
+9 Aggarwal, Jatin (21) 585 3.0 15.5 18.5 12.0 55.0
+10 Muthuraman, Vishnu (30) 535 3.0 15.0 16.0 10.0 48.0
+11 Kunka, Neha (6) 694 3.0 13.0 15.0 10.0 43.0
+12 Sivakumar, Arnav Kanu (5) 711 3.0 12.5 14.0 9.0 46.0
+13 Bui, Alexander (24) 557 3.0 12.0 13.0 9.0 38.0
+14 Sinks, Joaquin Vaughn (36) 528 3.0 12.0 13.0 8.0 39.0
+15 Tanniru, Abhinav (25) 556 3.0 11.0 13.0 9.0 39.0
+16 Lu, Maggie (22) 585 3.0 10.5 11.5 8.0 36.0
+17 Huckabee, Grant Steven (15) 625 3.0 10.0 10.5 8.0 29.0
+18 Bleakley, Aidan Michael (7) 683 2.5 8.5 12.5 7.0 33.0
+19 Bajaj, VijayKrishna (34) 528 2.5 6.5 11.0 8.5 32.0
+20 Dokka, Vishnu Sriteja (16) 614 2.5 6.5 11.0 5.5 33.0
+21 Arunachalam, Amrithaa (8) 680 2.5 6.0 9.5 7.5 28.5
+22 Zhu, Aaron Enrong (4) 724 2.0 10.5 14.0 7.0 41.5
+23 Sangani, Vedant (1) 775 2.0 9.0 14.0 6.0 41.0
+24 Wan, Claire P (29) 552 2.0 9.0 13.0 6.0 38.0
+25 Xu, Isabel (27) 553 2.0 8.0 12.0 5.0 32.5
+26 Kakarla, Akhil (39) 503 2.0 7.5 11.5 8.0 35.0
+27 Yeung, Sydney (20) 589 2.0 7.5 11.5 6.0 36.0
+28 Ishraq , Armaan A (26) 553 2.0 6.5 9.5 5.0 31.0
+29 Yi, Bella (28) 553 1.5 8.5 12.5 5.5 33.0
+30 Gullapalli, Anika (23) 582 1.5 7.0 11.0 4.5 29.5
+31 Fabacher, Richard (9) 667 1.5 7.0 10.5 4.5 27.5
+32 Silverman, Aaron Louis (38) 516 1.5 6.5 11.5 3.0 35.5
+33 Yang, Rachel (37) 519 1.5 4.5 6.5 1.5 17.5
+34 Young, Boone (14) 631 1.0 7.5 11.5 2.0 32.5
+35 Randazzo, Sylvia A (31) 535 1.0 6.5 10.5 0.0 31.5
+36 Xu, Sophia (17) 614 1.0 6.5 9.5 5.0 31.0
+37 Claussen, Josiah (35) 528 1.0 5.5 8.5 2.0 22.0
+38 Nagarahalli, Aakash Honnapp (18) 604 0.0 0.0 0.0 0.0 0.0
+&39 Joseph, Aldan (33) 533 0.0 0.0 0.0 0.0 0.0
+
+R6ElementaryChampionship
+1 Romo, Benjamin (2) 1744 4.5 16.0 19.0 14.5 57.5
+2 Kumarappan, Ganesh (3) 1674 4.5 15.0 18.0 14.5 56.0
+3 Nguyen, Anh Nhu (1) 1839 4.0 13.5 16.0 13.0 51.0
+4 Leonard, Faustin (11) 1280 4.0 12.0 13.0 11.0 43.0
+5 Pullabhotla, Venkata Naga (10) 1320 4.0 9.5 10.5 11.0 33.0
+6 Pham, Vinh The (6) 1352 3.5 14.5 16.5 11.5 49.5
+7 Hwang, William (12) 1274 3.5 13.5 15.5 10.5 47.0
+8 Kao, Simona Y (4) 1449 3.5 12.5 14.5 11.5 46.5
+9 Meka, Abhinu (22) 1043 3.5 12.0 13.0 9.0 45.0
+10 Wang, Neo (5) 1372 3.5 11.5 13.5 11.5 46.0
+11 Yellamraju, Ambica (19) 1164 3.5 10.5 12.0 9.5 38.0
+12 Nguyen, Jason Hien (14) 1242 3.0 13.0 13.5 10.0 40.0
+13 Pham, Minh The (7) 1351 3.0 12.5 14.5 10.0 44.5
+14 Kushwaha, Soumil (23) 1028 3.0 12.0 13.0 8.0 41.5
+15 Zhang, Ray Linyue (38) 826 3.0 10.5 12.5 8.5 36.5
+16 Lai, Evan Xing (16) 1215 3.0 10.5 11.5 9.0 37.5
+17 Gao, Eric (13) 1268 3.0 10.0 11.5 9.0 36.0
+18 Yang, Ethan (15) 1235 3.0 8.5 9.5 8.0 29.5
+19 Jiang, Andrew (9) 1321 2.5 9.0 14.5 10.5 45.0
+20 Aung, Christopher Lee (8) 1322 2.5 9.0 14.5 10.0 43.5
+21 Muthuswamy, Rahul (33) 936 2.5 8.5 13.5 6.5 36.5
+22 Choudhary, Neil (41) 756 2.5 7.5 12.5 7.0 33.0
+23 Macartney-Filgate, Patrick (26) 1023 2.5 7.5 11.5 6.5 34.0
+24 Garlanka, Mihit Sai (18) 1169 2.5 7.0 12.0 7.5 34.0
+25 Crockett, Sam (24) 1027 2.5 6.5 12.0 5.0 36.5
+26 Vadlamani, Siddharth S (35) 923 2.0 13.5 17.5 9.0 50.5
+27 Han, Kevin X (25) 1023 2.0 9.5 13.0 6.0 37.5
+28 Crane, Jake Ryan (29) 981 2.0 9.5 12.5 6.0 37.0
+29 Akella, Nitin Sriniketh (30) 975 2.0 9.0 12.0 7.0 38.5
+30 Ganesh, Rishi (27) 1021 2.0 7.5 11.0 6.0 35.5
+31 Wu, Joshua (43) 616 2.0 7.0 10.0 6.0 28.0
+32 Ren, Jason (21) 1079 2.0 6.0 9.0 6.0 30.0
+33 Thaker, Tanish (28) 986 2.0 6.0 9.0 5.0 27.0
+34 Wu, Gloria (40) 790 2.0 5.5 9.0 4.0 24.5
+35 George, Isaac (20) 1119 1.5 8.5 12.5 6.0 35.0
+36 Venkataraman, Harsha (39) 807 1.5 6.0 9.0 4.0 21.5
+37 Sudarshan, Anirudh (32) 941 1.0 9.5 13.5 3.0 34.0
+38 Kandrigi, Sandeep (36) 911 1.0 7.5 10.5 3.0 28.5
+39 Garcia, Joshua Gabriel (31) 950 1.0 6.0 10.0 1.0 28.0
+40 Yellamraju, Aparna (37) 855 1.0 5.5 8.5 2.0 22.0
+41 Ragavan, Vikranth S (42) 694 1.0 5.0 7.0 2.0 20.0
+42 Li, Jichuan (34) 931 0.5 5.0 8.0 0.0 21.0
+43 Lijoy, Jacob (17) 1175 0.5 2.5 5.0 1.5 14.5
+
+
+R6U300
+
+1 Manikantan, Athvait G (12) 192 5.0 12.5 14.0 15.0 47.0
+2 Ray, Aidan (56) nnnn 4.0 14.5 17.0 13.5 52.5
+3 Davis, Imani (16) 147 4.0 14.5 14.5 13.0 45.5
+4 Bitla, Akhilesh (32) nnnn 4.0 13.0 14.0 12.5 45.5
+5 Dharshan, Keshav (3) 238 4.0 12.5 14.5 10.0 41.0
+6 Pillai, Rithin (55) nnnn 4.0 12.5 14.0 11.0 43.0
+7 Gupta, Arsh (2) 241 4.0 12.0 13.0 13.0 41.0
+8 Thomas, Wesley (9) 209 4.0 11.5 11.5 13.0 38.0
+9 Amirthraj, Sanjay (6) 225 4.0 11.0 12.5 12.0 44.5
+10 Crawford, Flynn J (15) 170 3.5 14.5 16.0 12.0 49.5
+11 Atkinson, Ali Paige (17) 139 3.5 13.0 15.5 11.5 44.0
+12 Velicheti, Prajith (5) 231 3.5 11.5 13.5 11.5 45.5
+13 Kim, Annie (40) nnnn 3.5 10.0 11.0 8.0 33.5
+14 Ring, Anna Eileen (4) 231 3.5 6.5 6.5 8.0 20.5
+15 Jacob, Ashish (39) nnnn 3.0 14.5 16.5 10.0 50.0
+16 Gotham, Sucharitha (1) 289 3.0 13.0 15.0 10.0 45.0
+17 Couch, Andrew Brian (35) nnnn 3.0 11.5 13.5 9.0 42.0
+18 Dhulipala, Siddhardh (26) 105 3.0 11.5 12.0 11.0 37.0
+19 Govindarajan, Athishvishnu (8) 210 3.0 11.0 12.5 10.0 38.5
+20 Mishra, Aniruddh (47) nnnn 3.0 10.5 11.5 6.0 36.5
+21 Bamb, Siddh P (18) 136 3.0 10.0 12.0 7.0 39.0
+22 Oh, Jayce (51) nnnn 3.0 10.0 10.0 7.0 31.5
+23 Castore, Truman (25) 105 3.0 10.0 10.0 7.0 31.0
+24 Kommineni, Madhav Murari (44) nnnn 3.0 8.5 8.5 5.0 24.0
+25 Arya, Anika (11) 204 2.5 9.5 15.0 7.0 43.5
+26 Penumerthy, Shanmukha Uday (53) nnnn 2.5 7.5 13.0 8.5 42.5
+27 Lofthouse, Liam (14) 173 2.5 6.5 12.0 7.0 31.5
+28 Ray, Catherine Elizabeth (10) 205 2.5 4.5 8.0 7.5 23.5
+29 Pickle, Henry Duke (54) nnnn 2.5 4.5 8.0 5.0 24.0
+30 Gabrillo, Ryan Ramos (20) 115 2.5 4.5 6.5 6.0 24.5
+31 Chong, Lea (34) nnnn 2.5 4.0 7.0 4.0 23.0
+32 Tan, Zachary Tee Young (58) nnnn 2.0 12.5 17.5 9.0 51.0
+33 Lindauer, Tiernan (46) nnnn 2.0 10.5 14.0 8.0 36.0
+34 Atreya, Vedarth (22) 112 2.0 10.0 14.0 7.0 35.5
+35 Castro, Jacob M (13) 190 2.0 9.5 13.5 9.0 40.0
+36 Villareal, Henry Joseph (59) nnnn 2.0 8.5 12.5 6.5 30.0
+37 Gillipelli, Suhas R (21) 115 2.0 7.5 11.5 8.0 34.5
+38 Nam, Brian Janghoon (49) nnnn 2.0 7.5 11.5 6.0 35.5
+39 Garg, Sara (38) nnnn 2.0 7.5 10.5 5.0 31.0
+40 Nimavat, Utsav Nalinkant (50) nnnn 2.0 6.5 10.0 4.5 29.0
+41 Linan, Joshua (45) nnnn 2.0 6.0 10.0 5.0 27.0
+42 Bradburn, Luke Asher (33) nnnn 2.0 5.5 8.0 4.0 21.0
+43 Myers, Joe (28) 105 1.5 8.5 12.5 5.0 34.0
+44 Depta, Anna Noelle (23) 110 1.5 8.0 12.0 2.0 29.5
+45 Moore, Claire Ellen (19) 116 1.5 8.0 11.5 5.0 26.0
+46 Kim, Minji (41) nnnn 1.5 8.0 11.0 5.5 32.5
+47 Bircher, Catherine Anne (7) 210 1.5 7.0 10.0 5.0 29.0
+48 Kokinda, Otter K (42) nnnn 1.5 6.0 9.5 6.0 26.0
+49 Espinoza, Ben (36) nnnn 1.5 5.0 7.5 3.0 22.5
+50 Munson, Garrett (48) nnnn 1.5 4.0 7.0 4.0 21.0
+51 Kommineni, Achyut Murari (43) nnnn 1.0 9.0 12.0 4.5 29.0
+52 Katta, Anika Prisha (24) 107 1.0 6.5 9.5 2.5 25.0
+53 Espinoza, Gabriella (37) nnnn 1.0 5.5 8.5 1.0 25.5
+54 Patt, Gabriella Hadassah (52) nnnn 1.0 3.5 7.5 0.0 22.0
+55 Babbar, Siya (31) nnnn 1.0 2.0 7.0 2.0 20.0
+56 Kime, Sela (27) 105 1.0 1.0 3.0 3.5 11.0
+57 Stone, Sophie M (29) 103 0.5 0.0 2.0 1.5 8.0
+58 Kotlapure, Vedant G (30) 101 0.0 0.0 0.0 0.0 0.0
+&59 Roderick, Oliver Marshall (57) nnnn 0.0 0.0 0.0 0.0 0.0
+
+
+
+R6U500
+1 John, Austin (6) 468 6.0 20.0 22.0 21.0 82.5
+2 Dasari, Aditya (1) 498 5.0 22.0 22.0 18.0 83.0
+3 Johnson, Jadrian (5) 472 5.0 20.5 22.5 19.0 84.0
+4 Mehta, Arnav (9) 447 4.5 22.0 22.5 17.5 84.5
+5 Govande, Soham Vinayak (27) 378 4.5 22.0 22.0 15.0 79.5
+6 Sreenivasan, Rohini Priya (13) 435 4.5 18.5 20.5 17.0 76.5
+7 Greinke, Cole William (28) 377 4.5 16.5 16.5 14.5 56.0
+8 Kim, Seokhyun(Alex (23) 402 4.5 16.0 16.0 15.0 51.0
+9 Koneru, Rishi (21) 406 4.0 19.0 21.0 17.0 78.5
+10 Chong, Hyunwoo (31) 343 4.0 18.5 21.5 13.0 77.0
+11 Faucett, Colby Ryan (35) 323 4.0 18.5 21.0 17.0 79.5
+12 Dahmus, Ethan (3) 477 4.0 17.5 19.5 14.0 67.5
+13 Maberry, Jonothon (47) 255 4.0 16.5 18.5 13.0 66.0
+14 Sreenivasan, Prayag Rajath (4) 477 4.0 15.5 16.5 12.0 61.5
+15 LeRoy, Joshua (41) 302 4.0 14.5 17.0 11.0 61.0
+16 Samant, Aadet (26) 383 3.5 17.5 19.5 13.0 68.5
+17 Mitra, Gaurav (22) 406 3.5 17.5 17.5 13.5 60.5
+18 Mahadasu, Saanvi K (17) 427 3.5 16.0 18.0 13.0 70.0
+19 Dixon, Jeffrey William (8) 463 3.5 15.0 15.0 15.5 57.5
+20 Thompson, James W (46) 259 3.5 14.5 14.5 10.0 52.5
+21 Sung, Daniel (44) 278 3.0 14.0 21.0 14.0 74.5
+22 Palmejar, Melia (12) 436 3.0 14.0 20.5 12.0 68.5
+23 Woo, Jonathan Jimyn (14) 433 3.0 14.0 20.0 13.0 71.0
+24 Srireddy, Armaan (11) 440 3.0 12.5 18.5 11.0 68.5
+25 Chung, Marvel (51) 193 3.0 12.0 17.5 12.0 66.0
+26 Gajjela, Sai Girish (7) 466 3.0 12.0 17.0 10.0 60.0
+27 Brezina, Carter Addison (43) 280 3.0 10.5 16.5 9.0 58.0
+28 Maddala, Saaketh S (15) 431 3.0 10.5 16.5 9.0 53.0
+29 Lockett, Jonathan R (48) 244 3.0 10.5 15.5 11.0 50.0
+30 Pissay, Akhilesh (37) 319 3.0 10.0 14.0 9.0 54.0
+31 Mangaonkar, Pranay Pradeep (49) 225 3.0 9.0 13.0 9.0 52.0
+32 Land, Jacob Thomas (25) 383 3.0 7.5 12.0 6.0 38.0
+33 Kalakanis, Alex James (56) nnnn 2.5 14.0 18.0 8.5 63.5
+34 Heble, Dhavan Babu (39) 306 2.5 12.5 16.5 8.5 56.5
+35 Regalado, Jacob (16) 428 2.5 11.5 15.5 7.0 52.0
+36 Rosen, Andrew D (18) 415 2.5 5.0 10.0 12.0 38.5
+37 Groves, Bryan Alvin (45) 260 2.0 13.5 18.0 8.0 62.0
+38 Prodduturu, Shreyas Reddy (42) 286 2.0 13.0 17.5 7.0 60.0
+39 Bolduc, William Robert (33) 334 2.0 12.5 17.5 6.0 60.5
+40 Rajgopal, Vinay (34) 329 2.0 12.0 18.0 7.0 66.0
+41 Mack, Ethan (32) 336 2.0 11.0 15.0 6.0 49.5
+42 Sung, David (40) 305 2.0 10.5 15.0 6.5 45.5
+43 Davis, Callan (30) 360 2.0 10.0 16.0 8.0 52.0
+44 Zevallos, Phillip (52) 177 2.0 10.0 13.5 5.0 49.0
+45 Fang, Mason Lu (2) 497 2.0 9.5 13.0 7.0 45.0
+46 Carrier, Dylan (54) nnnn 2.0 8.5 13.0 4.5 38.5
+47 Han, Justin (24) 399 1.5 11.0 14.0 4.5 44.0
+48 Mehta, Aastha (53) 131 1.5 9.5 13.0 6.5 39.5
+49 Uhlig, Andres K (36) 320 1.0 11.0 15.0 4.0 51.0
+50 Ivanov, Serafima Vadimovna (38) 318 1.0 10.0 14.5 3.0 45.5
+51 Friend, Oscar (20) 407 1.0 8.0 11.0 0.0 32.0
+52 Sharma, Aarav (50) 199 0.0 0.0 4.5 0.0 15.0
+53 Farooqui, Rayyaan (10) 441 0.0 0.0 0.0 0.0 0.0
+&54 Chapa, Robert (29) 375 0.0 0.0 0.0 0.0 0.0
+&55 Guia, Maximus (55) nnnn 0.0 0.0 0.0 0.0 0.0
+
+
+R6U800Varsity
+1 Kalra, Kartik (18) 682 5.0 12.5 13.5 15.0 44.5
+2 Wallace, William (50) 539 4.5 11.5 11.5 12.0 36.0
+3 Regalado, Elijah (37) 602 4.0 15.0 18.0 14.0 57.0
+4 Li, Andrew (17) 684 4.0 14.0 15.5 13.0 52.0
+5 Malone, Jonathan Isaac (32) 627 4.0 13.0 15.0 12.0 48.5
+6 Jones, Isaac Maurice (8) 738 4.0 12.0 14.0 10.0 41.0
+7 Gurung, Krishna R (23) 664 4.0 10.5 12.0 11.0 40.5
+8 Liu, Ethan (56) 473 3.5 13.0 15.5 11.5 43.0
+9 Aggarwal, Manika (3) 791 3.5 11.5 13.0 8.0 37.0
+10 Rye , Danielle (24) 664 3.5 11.5 12.5 11.0 40.0
+11 Noriega, Evan Thomas Micah (21) 667 3.5 10.0 11.0 10.5 33.0
+12 Vudayagiri, Bhargav (15) 699 3.5 10.0 10.5 10.5 34.5
+13 Kim, Joshua Joon-Ho (55) 509 3.0 15.0 16.5 12.0 49.5
+14 Loera, Jose (1) 798 3.0 14.5 16.5 10.5 48.5
+15 Arya, Nikit (36) 603 3.0 14.0 16.0 10.0 52.0
+16 Mock, Mason (10) 730 3.0 14.0 16.0 10.0 47.5
+17 Byrapaneni, Siri (39) 597 3.0 13.0 13.0 9.0 38.0
+18 Vera, Luis (22) 665 3.0 12.5 14.0 11.0 44.5
+19 Xu, Grace (19) 681 3.0 12.5 13.0 11.0 44.5
+20 Sathish, Sanjit (12) 718 3.0 11.0 12.0 8.0 39.5
+21 Johnson, Leif Erick (25) 663 3.0 10.5 12.0 9.0 38.5
+22 Cardenas, Julian (28) 650 3.0 9.0 10.0 7.0 34.0
+23 Koushik, Darshan (35) 610 3.0 7.5 7.5 7.0 23.0
+24 Kodali, Arya (5) 749 2.5 8.0 14.5 8.5 43.5
+25 Morrow, Xen (41) 570 2.5 7.5 12.5 8.5 40.0
+26 Trimble, Andrew James (26) 661 2.5 7.5 12.5 7.5 35.0
+27 Swamy, Suraj (20) 672 2.5 7.5 12.5 7.5 34.0
+28 Borowicz, Andrew T (53) 520 2.5 6.5 10.5 6.5 30.5
+29 Raghavan, Arjun (33) 625 2.5 5.5 10.5 5.0 31.0
+30 Kotthakota, Divyesh (27) 651 2.5 5.5 9.0 7.0 27.0
+31 Young, Marie Elizabeth (29) 640 2.5 4.5 8.5 4.5 27.0
+32 Ye, Aidan Zixuan (9) 733 2.5 3.5 7.0 7.0 21.5
+33 Ngo, Lucas (7) 741 2.0 11.0 15.0 8.0 43.0
+34 Danala, Sraavya Sri (49) 539 2.0 10.5 14.5 6.0 38.5
+35 Ekambaram, Tharun (6) 745 2.0 8.5 12.5 8.0 36.0
+36 Morris, Lyle (52) 522 2.0 8.5 12.5 5.0 31.0
+37 Martinez-McIntosh, Jose Mig (43) 562 2.0 8.0 11.0 6.0 33.0
+38 Dasagi, Aakanksha (38) 600 2.0 6.5 9.5 5.0 29.5
+39 Ganti, Shreya (51) 538 2.0 6.0 9.5 3.0 25.0
+40 Vanguri, Aneesh (31) 628 2.0 5.5 8.5 5.0 30.5
+41 Wang, Raymond Minghong (40) 573 2.0 5.0 10.0 6.0 28.0
+42 Gonzalez, Juan Carlos (54) 520 2.0 5.0 8.0 7.0 24.5
+43 Mukherjee, Shoumodeep R (34) 617 2.0 4.5 8.5 4.0 26.0
+44 Kaczor, Dominic (13) 716 2.0 4.0 6.5 3.0 17.0
+45 Angulo, Alexander (14) 699 1.5 9.0 11.5 5.0 32.0
+46 Jandhyala, Aditya (45) 561 1.5 8.5 12.5 5.0 36.0
+47 Pantle, David (48) 542 1.5 8.0 11.5 4.5 31.0
+48 Wang, Leah Kuan-Han (4) 769 1.5 6.0 9.5 6.0 26.5
+49 Wojnowski, Jacob (2) 798 1.5 5.5 8.5 3.5 28.0
+50 Ayala, Jay (44) 561 1.0 8.5 13.5 2.5 34.0
+51 Ugwu, D'Andre (42) 570 1.0 8.5 12.0 3.5 31.5
+52 Marrapu, Saketh (30) 634 1.0 7.0 10.5 3.5 28.0
+53 Sathish, Ryan Andrew (46) 558 1.0 7.0 10.0 2.0 27.0
+54 Umesha, Advik (47) 544 0.5 9.0 12.5 2.5 33.5
+55 Menezes, Mark (11) 729 0.0 9.0 12.0 0.0 30.5
+56 Musson, Andrew (16) 689 0.0 0.0 0.0 0.0 0.0
+
+R6 Middle School Championship
+1 Kao, Camille Y (2) 1881 4.5 14.5 14.5 12.5 47.5
+2 Nguyen, Khoa Minh (1) 2013 4.0 14.5 16.5 14.0 51.5
+3 Kaliyur, Shreyes (6) 1664 4.0 14.0 16.0 13.0 51.0
+4 Zheng, Vincent (5) 1678 4.0 13.5 15.5 13.0 47.5
+5 Nguyen, Dang Minh (3) 1837 4.0 13.0 15.0 12.0 48.5
+6 Mohammadi, Sina (4) 1767 3.5 13.5 15.0 11.5 48.5
+7 Ramesh, Sreenevash (7) 1646 3.5 11.5 13.0 11.5 42.0
+8 Fernandes, Louis (9) 1450 3.5 11.5 11.5 10.0 34.0
+9 Pingale, Chinmay M (8) 1617 3.0 13.0 14.5 10.5 43.0
+10 Dodd, Ariadne (15) 1334 3.0 13.0 14.5 10.0 45.0
+11 Dammann, Jorn Fabian (13) 1358 3.0 12.0 13.5 9.0 41.5
+12 Ingram, Eric Michael (10) 1445 3.0 11.5 13.0 9.0 41.0
+13 Gumbula, Raaj Reddy (12) 1395 3.0 11.0 12.0 9.0 38.0
+14 Buendia, Eduardo (14) 1345 3.0 8.0 9.5 8.0 30.0
+15 Chennuru, Abhiram (11) 1410 2.5 8.5 14.0 8.5 42.5
+16 Johnson, Lukas Daniel (22) 1138 2.5 7.5 12.0 7.5 36.5
+17 Loo, Haozhe (18) 1243 2.5 7.0 11.0 8.0 34.0
+18 Davis, Evan (16) 1303 2.5 5.5 10.5 5.5 28.5
+19 Johnson, Aaron Connor (17) 1286 2.5 5.0 10.0 7.5 29.5
+20 Sridhar, Sendhil (21) 1155 2.0 9.5 13.5 6.0 38.5
+21 Marrapu, Dhanvi (19) 1236 2.0 8.5 12.5 5.5 38.0
+22 Li, George (31) 1004 2.0 8.5 11.5 6.0 34.0
+23 Levi, Daniel (24) 1097 2.0 8.0 12.0 6.0 35.5
+24 Techam, Christian (23) 1098 2.0 7.5 11.5 5.0 32.5
+25 Gadbois, Roland (25) 1073 2.0 6.5 10.0 5.0 28.0
+26 Rye, Davis (32) 989 1.5 9.5 13.0 5.5 38.0
+27 Brown, Rashad (30) 1021 1.5 9.0 12.0 4.5 30.0
+28 Cardamone, Kody Michael (27) 1055 1.5 8.5 11.5 5.0 33.5
+29 Kim, Donghyun(David (34) 914 1.5 7.5 11.0 5.0 34.0
+30 Hunt, Thomas (26) 1056 1.5 7.0 10.0 3.5 30.5
+31 Walker, Tyler (28) 1055 1.5 7.0 9.5 2.5 27.5
+32 Bandi, Vineeth Srisai (33) 984 1.5 6.5 9.5 3.5 23.0
+33 Sinks, Peyton Ford (29) 1054 1.0 6.0 9.0 2.0 23.5
+34 Miller, Koby (35) 780 1.0 5.0 7.5 0.0 21.0
+35 Thorat, Shantanu (20) 1206 0.0 0.0 0.0 0.0 0.0
+
+
+R6 Middle School Varsity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

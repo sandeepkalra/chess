@@ -1,0 +1,168 @@
+[k], [Grace ,Zeng] ,LME(1.0)   ==>  Best(1)
+[k], [Max ,Laine] ,LME(3.5)   ==>  Best(3.5)
+[k], [Michael ,Qu] ,LME(2.5),Casis(1.5)   ==>  Best(2.5)
+[k], [Pratyush ,Sinha] ,LME(1.5),Casis(3.0)   ==>  Best(3)
+[k], [Saaketh ,Boyapalle] ,LME(2.5),Patsy(2.5),Casis(3.5)   ==>  Best(3.5)
+[k], [Shreyan ,Khanna] ,LME(3.0)   ==>  Best(3)
+[k], [Tejan ,Bhirud] ,LME(1.0)   ==>  Best(1)
+
+
+
+
+
+
+
+[1st], [Annie ,Zhu] ,LME(3.5)   ==>  Best(3.5)
+[1st], [Auden ,Sandvig] ,LME(4.5),Patsy(3.5),Casis(4.0)   ==>  Best(4.5)
+[1st], [Evelyn ,Stidvent] ,Patsy(3.0),Casis(2.5)   ==>  Best(3)
+[1st], [Jacob ,Zeng] ,LME(3.5),Patsy(3.0),Casis(3.5)   ==>  Best(3.5)
+[1st], [Ryan ,Gu] ,LME(3.0)   ==>  Best(3)
+[1st], [Shiv ,Garg] ,LME(2.5),Patsy(3.5)   ==>  Best(3.5)
+[1st], [Siddharth ,Tripathi] ,LME(2.5),Patsy(2.0)   ==>  Best(2.5)
+[1st], [Sophia ,Zhang] ,LME(2.5)   ==>  Best(2.5)
+[1st], [Jason ,Li] ,LME(3.0)   ==>  Best(3)
+
+
+
+
+
+
+[2nd], [Luke ,Bradburn] ,LME(1.0),Patsy(2.0)   ==>  Best(2)
+[2nd], [Shreyas ,Dhagay] ,LME(1.5)   ==>  Best(1.5)
+
+
+
+
+
+[3rd], [Charlotte ,Stidvent] ,Patsy(3.5),Casis(1.0)   ==>  Best(3.5)
+[3rd], [Ethan ,Ho] ,LME(2.0)   ==>  Best(2)
+[3rd], [Ethan ,Liu] ,LME(1.5),Patsy(3.5),Casis(3.0)   ==>  Best(3.5)
+
+
+
+
+[4th], [Alex ,Kalakanis] ,Patsy(2.5)   ==>  Best(2.5)
+[4th], [Ashish ,Jacob] ,LME(2.0),Patsy(3.0)   ==>  Best(3)
+[4th], [Sara ,Garg] ,LME(3.0),Patsy(2.0)   ==>  Best(3)
+
+
+[5th], [Annie ,Kim] ,Patsy(3.5)   ==>  Best(3.5)
+[5th], [Pranay ,Mangaonkar] ,LME(4.5),Patsy(3.0),Casis(2.5)   ==>  Best(4.5)
+[5th], [Deven ,Bibikar] ,LME(4.0)   ==>  Best(4)
+
+
+
+
+[u1600], [Evan ,Lai] ,LME(2.5),Patsy(3.0),Casis(2.5)   ==>  Best(3)
+[u1600], [Jason ,Nguyen] ,LME(3.0),Patsy(3.0),Casis(0.0)   ==>  Best(3)
+[u1600], [Wesley ,Yeung] ,LME(4.0)   ==>  Best(4)
+[u1600], [Ganesh ,Kumarappan] ,Patsy(4.5)   ==>  Best(4.5)
+[u1600], [Jatin ,Aggarwal] ,LME(3.0),Patsy(3.0),Casis(3.0)   ==>  Best(3)
+[u1600], [Aparna ,Yellamraju] ,LME(4.0),Patsy(1.0),Casis(1.0)   ==>  Best(4)
+[u1600], [Ambica ,Yellamraju] ,LME(4.0),Patsy(3.5),Casis(3.5)   ==>  Best(4)
+[u1600], [Kevin ,Han] ,LME(3.0),Patsy(2.0)   ==>  Best(3)
+[u1600], [Manika ,Aggarwal] ,LME(3.0),Patsy(3.5),Casis(2.0)   ==>  Best(3.5)
+[u1600], [Mihit ,Garlanka] ,LME(3.0),Patsy(2.5)   ==>  Best(3)
+[u1600], [Anoop ,Rachakonda] ,LME(1.0)   ==>  Best(1)
+[u1600], [Lucas ,Ngo] ,LME(1.0),Patsy(2.0)   ==>  Best(2)
+
+
+
+
+
+
+[u600], [Darren ,Han] ,LME(2.0),Patsy(0.0),Casis(3.5)   ==>  Best(3.5)
+[u600], [Shreya ,Ganti] ,LME(2.0),Patsy(2.0)   ==>  Best(2)
+[u600], [Nayan ,Bhirud] ,LME(1.0)   ==>  Best(1)
+[u600], [Allison ,Nguyen] ,LME(3.0),Patsy(5.0),Casis(0.0)   ==>  Best(5)
+[u600], [Ishan ,Dasgupta] ,LME(0.5)   ==>  Best(0.5)
+[u600], [Rayyaan ,Farooqui] ,LME(0.0),Patsy(0.0)   ==>  Best(0)
+[u600], [Kalia ,Wang] ,LME(3.0),Patsy(3.5),Casis(3.5)   ==>  Best(3.5)
+[u600], [Siona ,Shah] ,LME(1.0)   ==>  Best(1)
+[u300], [Ishaan ,Sampat] ,LME(2.5),Patsy(1.5)   ==>  Best(2.5)
+[u300], [Lea ,Chong] ,LME(3.0),Patsy(2.5)   ==>  Best(3)
+[u300], [Siona ,Shah] ,LME(1.0)   ==>  Best(1)
+
+
+
+
+[mon], [Aarush ,Anand] ,LME(2.0),Patsy(2.0),Casis(2.5)   ==>  Best(2.5)
+[mon], [Meera ,Iyengar] ,LME(3.0)   ==>  Best(3)
+[mon], [Satyanandana ,Thallam] ,LME(2.5),Patsy(1.0)   ==>  Best(2.5)
+[mon], [Ryan ,Lee] ,Patsy(4.0)   ==>  Best(4)
+[mon], [Daniel ,Nam] ,LME(3.0),Patsy(2.0)   ==>  Best(3)
+[mon], [MartinSolari ,Aburto] ,LME(1.0)   ==>  Best(1)
+[mon], [Krishiv ,Potluri] ,LME(1.5),Patsy(4.0)   ==>  Best(4)
+[mon], [Shreya ,Chejara] ,LME(1.0)   ==>  Best(1)
+[mon], [Ruhan ,Gupta] ,LME(0.5)   ==>  Best(0.5)
+[mon], [Vedant ,Desai] ,LME(2.0)   ==>  Best(2)
+
+
+
+
+[tue], [Saaketh ,Boyapalle] ,LME(2.5),Patsy(2.5),Casis(3.5)   ==>  Best(3.5)
+[tue], [Ethan ,Sze] ,LME(3.5),Patsy(3.0)   ==>  Best(3.5)
+[tue], [Vishnu ,Muthuraman] ,LME(2.0),Patsy(3.0),Casis(1.5)   ==>  Best(3)
+[tue], [Vivian ,Hapka] ,LME(0.0)   ==>  Best(0)
+[tue], [Anika ,Katta] ,LME(1.0),Patsy(1.0)   ==>  Best(1)
+[tue], [Rithvik ,Umesha] ,LME(1.5),Casis(3.0)   ==>  Best(3)
+[tue], [Anannya ,Sathaye] ,Patsy(2.0)   ==>  Best(2)
+[tue], [Shriya ,Kota] ,LME(0.0),Patsy(2.0)   ==>  Best(2)
+[tue], [Sarayu ,Danala] ,LME(2.0)   ==>  Best(2)
+[tue], [Rithvik ,Hegde] ,LME(3.0),Patsy(4.0)   ==>  Best(4)
+
+
+
+
+
+[wed], [Berntrand ,Qu] ,LME(3.0),Patsy(2.5),Casis(1.5)   ==>  Best(3)
+[wed], [Shaurya ,Pathania] ,LME(2.5),Patsy(3.0)   ==>  Best(3)
+[wed], [Neel ,Kotichintala] ,LME(2.5),Patsy(2.0)   ==>  Best(2.5)
+[wed], [Zachary ,Gawiser] ,LME(4.0),Patsy(3.0)   ==>  Best(4)
+[wed], [Kirti ,Ragavan] ,LME(3.0),Patsy(1.5),Casis(5.0)   ==>  Best(5)
+[wed], [Armaan ,Srireddy] ,LME(3.0),Patsy(3.0)   ==>  Best(3)
+[wed], [Brian ,Nam] ,LME(3.0),Patsy(2.0)   ==>  Best(3)
+[wed], [Vikranth ,Ragavan] ,LME(4.0),Patsy(1.0),Casis(3.0)   ==>  Best(4)
+[wed], [Daniel ,Yang] ,LME(2.5)   ==>  Best(2.5)
+
+
+
+
+
+
+[thu], [Suchir ,Kumar] ,Patsy(2.5)   ==>  Best(2.5)
+[thu], [Romir ,Jain] ,LME(2.0),Patsy(2.0)   ==>  Best(2)
+[thu], [AjithBandlapalli ,Reddy] ,LME(3.0)   ==>  Best(3)
+[thu], [Jishnu ,Saani] ,LME(3.0),Patsy(3.5)   ==>  Best(3.5)
+[thu], [Alex ,Kim] ,LME(1.0),Patsy(4.5),Casis(3.0)   ==>  Best(4.5)
+[thu], [Advik ,Umesha] ,LME(3.0),Patsy(0.5),Casis(3.0)   ==>  Best(3)
+[thu], [Divyesh ,Kotthakota] ,LME(2.0),Patsy(2.5),Casis(0.0)   ==>  Best(2.5)
+[thu], [Aneesh ,Vanguri] ,LME(3.0),Patsy(2.0)   ==>  Best(3)
+[thu], [Rohan ,Engineer] ,LME(3.0)   ==>  Best(3)
+[thu], [Carter ,Brezina] ,LME(2.0),Patsy(3.0),Casis(3.5)   ==>  Best(3.5)
+[thu], [Hyunwoo ,Chong] ,LME(3.0),Patsy(4.0)   ==>  Best(4)
+[thu], [Vineet ,Burugu] ,Patsy(4.0)   ==>  Best(4)
+[thu], [Aayush ,Kumar] ,LME(1.0),Patsy(2.5)   ==>  Best(2.5)
+
+
+
+
+
+[fri], [Adam ,Menezes] ,LME(3.5),Patsy(1.5)   ==>  Best(3.5)
+[fri], [Ram ,Sivaraman] ,LME(3.5),Patsy(1.0)   ==>  Best(3.5)
+[fri], [Sakthivel ,Vijayakumar] ,LME(3.0),Patsy(3.5)   ==>  Best(3.5)
+[fri], [Christopher ,Aung] ,LME(2.0),Patsy(2.5),Casis(4.5)   ==>  Best(4.5)
+[fri], [Rohit ,Gundam] ,LME(4.0),Patsy(4.0)   ==>  Best(4)
+[fri], [Neil ,Choudhary] ,LME(4.0),Patsy(2.5)   ==>  Best(4)
+[fri], [Saaketh ,Maddala] ,LME(2.5),Patsy(3.0),Casis(3.0)   ==>  Best(3)
+[fri], [Kartik ,Kalra] ,LME(4.0),Patsy(5.0),Casis(2.0)   ==>  Best(5)
+[fri], [Leah ,Wang] ,LME(2.0),Patsy(1.5)   ==>  Best(2)
+[fri], [Mark ,Menezes] ,LME(1.5),Patsy(0.0)   ==>  Best(1.5)
+[fri], [Siddharth ,Vadlamani] ,LME(4.0),Patsy(2.0),Casis(2.5)   ==>  Best(4)
+[fri], [Hrushikesh ,Saranu] ,LME(2.0)   ==>  Best(2)
+[fri], [Aditya ,Jandhyala] ,Patsy(1.5)   ==>  Best(1.5)
+[fri], [Sydney ,Yeung] ,LME(2.5),Patsy(2.0)   ==>  Best(2.5)
+[fri], [Sraavya ,Danala] ,LME(3.0),Patsy(2.0)   ==>  Best(3)
+[fri], [Tanvi ,Reddy] ,LME(3.0),Patsy(3.0),Casis(2.0)   ==>  Best(3)
+[fri], [Aadet ,Samant] ,LME(3.5),Patsy(3.5),Casis(1.0)   ==>  Best(3.5)
+

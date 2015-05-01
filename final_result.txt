@@ -1,0 +1,322 @@
+[k ] , Grace  ,Zeng
+		[LME]: &31 Zeng, Grace Meng (33,Laurel Mountain Elementary, Aust) nnnn 1.0
+[k ] , Max  ,Laine
+		[LME]: &3 Laine, Max Alexander (15,Laurel Mountain Elementary, Aust) nnnn 3.5
+[k ] , Michael  ,Qu
+		[LME]: 20 Qu, Michael Zihao (12,Laurel Mountain Elementary, Aust) 377 2.5 8.5 8.5 14.0 10.5 8.5
+		[CASIS]: 23 Qu, Michael Zihao (19,Laurel Mountain Elementary, Aust) 429 1.5 10.0 8.5 14.0 7.0 5.0
+[k ] , Pratyush  ,Sinha
+		[LME]: 43 Sinha, Pratyush (1,Laurel Mountain Elementary, Aust) 298 1.5 6.0 5.5 8.5 2.5
+		[CASIS]: 7 Sinha, Pratyush (27,Laurel Mountain Elementary, Aust) nnnn 3.0 11.5 6.5 13.0 12.5 8.5
+[k ] , Saaketh  ,Boyapalle
+		[LME]: 22 Boyapalle, Saaketh Red (22,Laurel Mountain Elementary, Aust) 286 2.5 8.0 8.0 13.5 10.5 8.5
+		[PATSY]: 36 Boyapalle, Saaketh Reddy (14) 116 2.5 12.0 16.5 9.0 58.5
+		[CASIS]: 5 Boyapalle, Saaketh Red (13,Laurel Mountain Elementary, Aust) 127 3.5 10.0 6.0 11.5 13.0 9.5
+[k ] , Shreyan  ,Khanna
+		[LME]: &9 Khanna, Shreyan (14,Laurel Mountain Elementary, Aust) nnnn 3.0
+[k ] , Tejan  ,Bhirud
+		[LME]: 46 Bhirud, Tejan (42,Laurel Mountain Elementary, Aust) 107 1.0 4.5 4.5 7.5 2.5 3.5
+[1st ] , Annie  ,Zhu
+		[LME]: &6 Zhu, Annie (35,Laurel Mountain Elementary, Aust) nnnn 3.5
+[1st ] , Auden  ,Sandvig
+		[LME]: 2 Sandvig, Auden (7,Laurel Mountain Elementary, Aust) 406 4.5 12.0 9.0 13.5 24.0 13.0
+		[PATSY]: 15 Sandvig, Auden (12) 118 3.5 18.5 21.5 13.0 72.0
+		[CASIS]: 2 Sandvig, Auden (3,Laurel Mountain Elementary, Aust) 287 4.0 11.5 6.5 13.5 17.0 12.0
+[1st ] , Evelyn  ,Stidvent
+		[PATSY]: 23 Stidvent, Evelyn Rey (21) 105 3.0 14.0 20.5 13.5 71.5
+		[CASIS]: 9 Stidvent, Evelyn Rey (10,Laurel Mountain Elementary, Aust) 201 2.5 7.5 7.5 13.0 9.0 9.5
+[1st ] , Jacob  ,Zeng
+		[LME]: 8 Zeng, Jacob Meng (15,Laurel Mountain Elementary, Aust) 357 3.5 12.5 8.5 14.5 18.0 11.5
+		[PATSY]: 30 Zeng, Jacob Meng (70) nnnn 3.0 11.0 17.5 10.0 62.5
+		[CASIS]: 5 Zeng, Jacob Meng (6,Laurel Mountain Elementary, Aust) 259 3.5 14.0 9.0 16.5 20.5 12.0
+[1st ] , Ryan  ,Gu
+		[LME]: 7 Gu, Ryan (8,Laurel Mountain Elementary, Aust) nnnn 3.0
+[1st ] , Shiv  ,Garg
+		[LME]: 21 Garg, Shiv (1,Laurel Mountain Elementary, Aust) 486 2.5 8.5 8.5 13.5 12.5 9.0
+		[PATSY]: 21 Garg, Shiv (39) nnnn 3.5 12.0 12.0 10.5 44.5
+[1st ] , Siddharth  ,Tripathi
+		[LME]: 24 Tripathi, Siddharth (43,Laurel Mountain Elementary, Aust) 107 2.5 7.5 7.5 12.5 7.5 7.0
+		[PATSY]: 51 Tripathi, Siddharth (65) nnnn 2.0 10.5 14.0 3.0 39.5
+[1st ] , Sophia  ,Zhang
+		[LME]: &18 Zhang, Sophia (34,Laurel Mountain Elementary, Aust) nnnn 2.5
+[1st ] , Jason  ,Li
+		[LME]: &11 Li, Jason (17,Laurel Mountain Elementary, Aust) nnnn 3.0
+[2nd ] , Luke  ,Bradburn
+		[LME]: 43 Bradburn, Luke Asher (41,Laurel Mountain Elementary, Aust) 109 1.0 3.5 3.5 7.5 0.0
+		[PATSY]: 42 Bradburn, Luke Asher (33) nnnn 2.0 5.5 8.0 4.0 21.0
+[2nd ] , Shreyas  ,Dhagay
+		[LME]: 24 Dhagay, Shreyas (7,Laurel Mountain Elementary, Aust) nnnn 1.5
+[3rd ] , Charlotte  ,Stidvent
+		[PATSY]: 32 Stidvent, Charlotte Marie (4) 260 3.5 11.5 11.5 11.5 44.0
+		[CASIS]: 27 Stidvent, Charlotte Ma (28,Laurel Mountain Elementary, Aust) 326 1.0 8.0 8.0 11.0 0.0 2.0
+[3rd ] , Ethan  ,Ho
+		[LME]: 45 Mack, Ethan (72,Meridian School, Round Rock, TX) 273 2.0 8.0 7.0 12.0 6.0 7.0
+[3rd ] , Ethan  ,Liu
+		[LME]: 28 Liu, Ethan (19,Laurel Mountain Elementary, Aust) 862 1.5
+		[PATSY]: 8 Liu, Ethan (56) 473 3.5 13.0 15.5 11.5 43.0
+		[CASIS]: 7 Liu, Ethan (19,Laurel Mountain Elementary, Aust) 747 3.0 12.0 8.0 12.0 9.0 7.0
+[4th ] , Alex  ,Kalakanis
+		[PATSY]: 33 Kalakanis, Alex James (56) nnnn 2.5 14.0 18.0 8.5 63.5
+[4th ] , Ashish  ,Jacob
+		[LME]: 53 Jacob, Ashish (60,Laurel Mountain Elementary, Aust) 379 2.0 5.5 5.5 8.5 2.0 4.0
+		[PATSY]: 15 Jacob, Ashish (39) nnnn 3.0 14.5 16.5 10.0 50.0
+[4th ] , Sara  ,Garg
+		[LME]: 16 Garg, Sara (33,Laurel Mountain Elementary, Aust) 126 3.0 12.5 8.5 14.5 14.0
+		[PATSY]: 39 Garg, Sara (38) nnnn 2.0 7.5 10.5 5.0 31.0
+[5th ] , Annie  ,Kim
+		[PATSY]: 13 Kim, Annie (40) nnnn 3.5 10.0 11.0 8.0 33.5
+[5th ] , Pranay  ,Mangaonkar
+		[LME]: 2 Mangaonkar, Pranay Prad (5,Laurel Mountain Elementary, Aust) 278 4.5 11.5 8.0 11.5 23.0
+		[PATSY]: 31 Mangaonkar, Pranay Pradeep (49) 225 3.0 9.0 13.0 9.0 52.0
+		[CASIS]: 16 Mangaonkar, Pranay Pra (17,Laurel Mountain Elementary, Aust) 207 2.5 8.5 8.5 14.0 10.5 8.5
+[5th ] , Deven  ,Bibikar
+		[LME]: 5 Bibikar, Deven (12,Laurel Mountain Elementary, Aust) 248 4.0 10.0 7.0 11.5 17.0
+[u1600 ] , Evan  ,Lai
+		[LME]: 16 Lai, Evan Xing (7,Laurel Mountain Elementary, Aust) 1334 2.5 4.0 4.0 7.0 8.0
+		[PATSY]: 16 Lai, Evan Xing (16) 1215 3.0 10.5 11.5 9.0 37.5
+		[CASIS]: 5 Lai, Evan Xing (15) 1216 2.5 8.0 5.0 9.5 10.5 7.0
+[u1600 ] , Jason  ,Nguyen
+		[LME]: &8 Nguyen, Jason Hien (3,Laurel Mountain Elementary, Aust) 1224 3.0
+		[PATSY]: 12 Nguyen, Jason Hien (14) 1242 3.0 13.0 13.5 10.0 40.0
+		[CASIS]: 18 Nguyen, Jason Hien (1,Laurel Mountain Elementary, Aust) 1224 0.0 0.0 0.0 0.0 0.0 0.0
+[u1600 ] , Wesley  ,Yeung
+		[LME]: 3 Yeung, Wesley (5,Laurel Mountain Elementary, Aust) 1604 4.0 10.5 6.5 12.5 17.0 11.0
+[u1600 ] , Ganesh  ,Kumarappan
+		[PATSY]: 2 Kumarappan, Ganesh (3) 1674 4.5 15.0 18.0 14.5 56.0
+[u1600 ] , Jatin  ,Aggarwal
+		[LME]: 21 Aggarwal, Jatin (14,Laurel Mountain Elementary, Aust) 751 3.0 9.5 6.5 11.0 12.0 7.0
+		[PATSY]: 9 Aggarwal, Jatin (21) 585 3.0 15.5 18.5 12.0 55.0
+		[CASIS]: 10 Aggarwal, Jatin (4,Laurel) 734 3.0 14.0 10.0 16.5 17.0 11.0
+[u1600 ] , Aparna  ,Yellamraju
+		[LME]: &5 Yellamraju, Aparna (15,Laurel Mountain Elementary, Aust) 786 4.0
+		[PATSY]: 40 Yellamraju, Aparna (37) 855 1.0 5.5 8.5 2.0 22.0
+		[CASIS]: 16 Yellamraju, Aparna (14,Laurel Mountain Elementary, Aust) 845 1.0 8.0 7.0 12.0 2.0 4.0
+[u1600 ] , Ambica  ,Yellamraju
+		[LME]: &4 Yellamraju, Ambica (6,Laurel Mountain Elementary, Aust) 1147 4.0
+		[PATSY]: 11 Yellamraju, Ambica (19) 1164 3.5 10.5 12.0 9.5 38.0
+		[CASIS]: 5 Yellamraju, Ambica (3,Laurel Mountain Elementary, Aust) 1139 3.5 11.5 8.0 13.0 15.5 11.0
+[u1600 ] , Kevin  ,Han
+		[LME]: &12 Han, Kevin X (12,Laurel Mountain Elementary, Aust) 1067 3.0
+		[PATSY]: 27 Han, Kevin X (25) 1023 2.0 9.5 13.0 6.0 37.5
+[u1600 ] , Manika  ,Aggarwal
+		[LME]: &11 Aggarwal, Manika (13,Laurel Mountain Elementary, Aust) 790 3.0
+		[PATSY]: 9 Aggarwal, Manika (3) 791 3.5 11.5 13.0 8.0 37.0
+		[CASIS]: 12 Aggarwal, Manika (18,Laurel Mountain Elementary, Aust) 804 2.0 6.5 6.5 10.0 2.0 3.0
+[u1600 ] , Mihit  ,Garlanka
+		[LME]: &9 Garlanka, Mihit Sai (5,Laurel Mountain Elementary, Aust) 1154 3.0
+		[PATSY]: 24 Garlanka, Mihit Sai (18) 1169 2.5 7.0 12.0 7.5 34.0
+[u1600 ] , Anoop  ,Rachakonda
+		[LME]: 26 Rachakonda, Anoop (20,Laurel Mountain Elementary, Aust) 1056 1.0 5.5 5.5 9.5 3.0
+[u1600 ] , Lucas  ,Ngo
+		[LME]: &30 Ngo, Lucas (31,Laurel Mountain Elementary, Aust) 705 1.0
+		[PATSY]: 33 Ngo, Lucas (7) 741 2.0 11.0 15.0 8.0 43.0
+[u600 ] , Darren  ,Han
+		[LME]: 35 Han, Darren R (42,Laurel Mountain Elementary, Aust) 530 2.0 6.0 5.5 10.0 4.0 3.5
+		[PATSY]: &72 Han, Darren R (38) 378 0.0 0.0 0.0 0.0 0.0
+		[CASIS]: 5 Han, Darren R (24,Laurel Mountain Elementary, Aust) 378 3.5 11.5 7.5 13.0 15.0 11.0
+[u600 ] , Shreya  ,Ganti
+		[LME]: 50 Ganti, Shreya (47,Laurel Mountain Elementary, Aust) 452 2.0 6.5 5.5 9.5 5.0 5.0
+		[PATSY]: 39 Ganti, Shreya (51) 538 2.0 6.0 9.5 3.0 25.0
+[u600 ] , Nayan  ,Bhirud
+		[LME]: &32 Bhirud, Nayan Sanay (33,Laurel Mountain Elementary, Aust) 555 1.0
+[u600 ] , Allison  ,Nguyen
+		[LME]: 12 Nguyen, Allison QuynhCh (2,Laurel Mountain Elementary, Aust) 488 3.0 12.5 8.0 13.5 10.0
+		[PATSY]: 5 Nguyen, Allison QuynhChau (9) 222 5.0 19.5 21.5 17.0 79.0
+		[CASIS]: 31 Nguyen, Allison QuynhCh (2,Laurel Mountain Elementary, Aust) 488 0.0 0.0 0.0 0.0 0.0 0.0
+[u600 ] , Ishan  ,Dasgupta
+		[LME]: 72 Dasgupta, Ishan A (37,Laurel Mountain Elementary, Aust) 503 0.5 7.0 7.0 11.0 4.0 2.5
+[u600 ] , Rayyaan  ,Farooqui
+		[LME]: 74 Farooqui, Rayyaan (50,Laurel Mountain Elementary, Aust) 441 0.0 3.5 3.5 6.5 0.0 0.0
+		[PATSY]: 53 Farooqui, Rayyaan (10) 441 0.0 0.0 0.0 0.0 0.0
+[u600 ] , Kalia  ,Wang
+		[LME]: 12 Wang, Kalia Yuke (20,Laurel Mountain Elementary, Aust) 697 3.0 14.5 9.5 16.5 15.0 10.0
+		[PATSY]: 21 Wang, Kalia Yuke (35) 381 3.5 19.0 19.0 13.0 70.0
+		[CASIS]: 7 Wang, Kalia Yuke (38,Laurel) 502 3.5 11.0 7.0 11.0 15.0 11.0
+[u600 ] , Siona  ,Shah
+		[LME]: 63 Shah, Siona Rakesh (35,Laurel Mountain Elementary, Aust) 512 1.0 7.5 7.0 11.5 1.0 4.0
+[u300 ] , Ishaan  ,Sampat
+		[LME]: 27 Sampat, Ishaan (31,Laurel Mountain Elementary, Aust) 169 2.5 5.5 5.5 12.0 7.5 4.5
+		[PATSY]: 57 Sampat, Ishaan (9) 173 1.5 5.0 10.5 6.0 34.5
+[u300 ] , Lea  ,Chong
+		[LME]: 17 Chong, Lea (39,Laurel Mountain Elementary, Aust) 107 3.0 12.0 7.5 12.5 8.0
+		[PATSY]: 31 Chong, Lea (34) nnnn 2.5 4.0 7.0 4.0 23.0
+[u300 ] , Siona  ,Shah
+		[LME]: 63 Shah, Siona Rakesh (35,Laurel Mountain Elementary, Aust) 512 1.0 7.5 7.0 11.5 1.0 4.0
+[mon ] , Aarush  ,Anand
+		[LME]: 33 Anand, Aarush (34,Laurel Mountain Elementary, Aust) 151 2.0 7.5 7.5 11.5 6.0 6.0
+		[PATSY]: 50 Anand, Aarush (23) nnnn 2.0 13.5 17.0 8.0 56.0
+		[CASIS]: 12 Anand, Aarush (12,Laurel Mountain Elementary, Aust) 128 2.5 5.5 5.5 9.0 7.0 7.0
+[mon ] , Meera  ,Iyengar
+		[LME]: &8 Iyengar, Meera (13,Laurel Mountain Elementary, Aust) nnnn 3.0
+[mon ] , Satyanandana  ,Thallam
+		[LME]: 29 Thallam, Satyanandana (33,Laurel Mountain Elementary, Aust) 152 2.5 5.0 5.0 8.0 5.5 6.5
+		[PATSY]: 65 Thallam, Satyanandana (48) 348 1.0 8.0 13.0 0.0 33.0
+[mon ] , Ryan  ,Lee
+		[PATSY]: 19 Lee, Ryan Jiwon (60) nnnn 4.0 16.5 18.5 14.5 67.5
+[mon ] , Daniel  ,Nam
+		[LME]: 21 Nam, Daniel Jangho (9,Laurel Mountain Elementary, Aust) 261 3.0 10.0 6.5 11.0 9.0
+		[PATSY]: 72 Nam, Daniel Jangho (69) nnnn 2.0 9.0 13.0 8.0 43.5
+[mon ] , Martin Solari ,Aburto
+		[LME]: 27 Aburto Solari, Martin (1,Laurel Mountain Elementary, Aust) nnnn 1.0
+[mon ] , Krishiv  ,Potluri
+		[LME]: 44 Potluri, Krishiv Ragha (14,Laurel Mountain Elementary, Aust) 361 1.5 4.0 4.0 7.0 4.0 4.0
+		[PATSY]: 12 Potluri, Krishiv Raghava (60) nnnn 4.0 16.0 17.0 14.0 59.5
+[mon ] , Shreya  ,Chejara
+		[LME]: &28 Chejara, Shreya (4,Laurel Mountain Elementary, Aust) nnnn 1.0
+[mon ] , Ruhan  ,Gupta
+		[LME]: 48 Gupta, Ruhan (48,Laurel Mountain Elementary, Aust) nnnn 0.5 5.5 5.5 9.5 0.0 0.5
+[mon ] , Vedant  ,Desai
+		[LME]: 31 Desai, Vedant A (24,Laurel Mountain Elementary, Aust) 249 2.0 8.5 7.0 12.5 7.5 7.5
+[tue ] , Saaketh  ,Boyapalle
+		[LME]: 22 Boyapalle, Saaketh Red (22,Laurel Mountain Elementary, Aust) 286 2.5 8.0 8.0 13.5 10.5 8.5
+		[PATSY]: 36 Boyapalle, Saaketh Reddy (14) 116 2.5 12.0 16.5 9.0 58.5
+		[CASIS]: 5 Boyapalle, Saaketh Red (13,Laurel Mountain Elementary, Aust) 127 3.5 10.0 6.0 11.5 13.0 9.5
+[tue ] , Ethan  ,Sze
+		[LME]: 9 Sze, Ethan (8,Laurel Mountain Elementary, Aust) 400 3.5 9.0 5.0 9.0 18.0 11.0
+		[PATSY]: 22 Sze, Ethan (1) 290 3.0 18.0 26.0 14.0 90.5
+[tue ] , Vishnu  ,Muthuraman
+		[LME]: 30 Muthuraman, Vishnu (33,Laurel Mountain Elementary, Aust) 572 2.0 9.5 8.0 13.5 7.0 6.0
+		[PATSY]: 10 Muthuraman, Vishnu (30) 535 3.0 15.0 16.0 10.0 48.0
+		[CASIS]: 32 Muthuraman, Vishnu (10,Laurel) 662 1.5 4.0 4.0 7.0 0.0 4.0
+[tue ] , Vivian  ,Hapka
+		[LME]: 35 Hapka, Vivian Marie (9,Laurel Mountain Elementary, Aust) nnnn 0.0
+[tue ] , Anika  ,Katta
+		[LME]: 48 Katta, Anika Prisha (37,Laurel Mountain Elementary, Aust) 110 1.0 6.5 6.0 9.5 1.0
+		[PATSY]: 52 Katta, Anika Prisha (24) 107 1.0 6.5 9.5 2.5 25.0
+[tue ] , Rithvik  ,Umesha
+		[LME]: 36 Umesha, Rithvik (37,Laurel Mountain Elementary, Aust) 246 1.5 6.0 6.0 9.5 0.0
+		[CASIS]: 12 Umesha, Rithvik (12,Laurel Mountain Elementary, Aust) 157 3.0 12.0 8.0 14.0 12.0 10.0
+[tue ] , Anannya  ,Sathaye
+		[PATSY]: 71 Sathaye, Anannya Swati (78) nnnn 2.0 10.5 13.5 4.0 33.5
+[tue ] , Shriya  ,Kota
+		[LME]: 45 Kota, Shriya Reddy (43,Laurel Mountain Elementary, Aust) 106 0.0 3.5 3.5 6.0 0.0
+		[PATSY]: 69 Kota, Shriya Reddy (36) 101 2.0 10.5 14.5 6.0 44.5
+[tue ] , Sarayu  ,Danala
+		[LME]: &20 Danala, Sarayu Sri (6,Laurel Mountain Elementary, Aust) nnnn 2.0
+[tue ] , Rithvik  ,Hegde
+		[LME]: 12 Hegde, Rithvik (9,Laurel Mountain Elementary, Aust) 388 3.0 13.0 9.0 14.5 13.0 11.0
+		[PATSY]: 13 Hegde, Rithvik (40) nnnn 4.0 15.0 16.0 11.5 61.0
+[wed ] , Berntrand  ,Qu
+		[LME]: 10 Qu, Berntrand Wei (37,Laurel Mountain Elementary, Aust) 121 3.0 16.0 11.0 18.0 18.0 12.0
+		[PATSY]: 55 Qu, Berntrand Wei (30) 107 2.5 9.0 12.5 7.0 40.5
+		[CASIS]: 32 Qu, Berntrand Wei (17,Laurel Mountain Elementary, Aust) 114 1.5 9.0 7.5 13.0 9.5 6.0
+[wed ] , Shaurya  ,Pathania
+		[LME]: 25 Pathania, Shaurya (35,Laurel Mountain Elementary, Aust) 264 2.5 4.5 4.5 8.0 4.5
+		[PATSY]: 35 Pathania, Shaurya (72) nnnn 3.0 13.0 20.0 10.0 62.5
+[wed ] , Neel  ,Kotichintala
+		[LME]: 24 Kotichintala, Neel (39,Laurel Mountain Elementary, Aust) 120 2.5 6.0 6.0 10.5 6.0
+		[PATSY]: 74 Kotichintala, Neel (37) 101 2.0 7.0 11.5 5.5 38.5
+[wed ] , Zachary  ,Gawiser
+		[LME]: 6 Gawiser, Zachary Aaron (11,Laurel Mountain Elementary, Aust) 254 4.0 9.5 6.5 9.5 13.0
+		[PATSY]: 39 Gawiser, Zachary Aaron (53) nnnn 3.0 12.0 19.5 11.5 71.5
+[wed ] , Kirti  ,Ragavan
+		[LME]: 29 Ragavan, Kirti P (19,Laurel Mountain Elementary, Aust) 581 3.0 9.0 6.0 10.5 12.0 7.5
+		[PATSY]: 57 Ragavan, Kirti P (36) 380 1.5 11.5 15.0 5.0 47.5
+		[CASIS]: 1 Ragavan, Kirti P (4,Laurel Mountain Elementary, Aust) 282 5.0 13.5 9.5 16.0 32.0 15.0
+[wed ] , Armaan  ,Srireddy
+		[LME]: 17 Srireddy, Armaan (53,Laurel Mountain Elementary, Aust) 418 3.0 14.0 9.0 15.5 13.0 10.0
+		[PATSY]: 24 Srireddy, Armaan (11) 440 3.0 12.5 18.5 11.0 68.5
+[wed ] , Brian  ,Nam
+		[LME]: 14 Nam, Brian Janghoon (30,Laurel Mountain Elementary, Aust) 142 3.0 13.5 9.5 15.5 18.0
+		[PATSY]: 38 Nam, Brian Janghoon (49) nnnn 2.0 7.5 11.5 6.0 35.5
+[wed ] , Vikranth  ,Ragavan
+		[LME]: 3 Ragavan, Vikranth S (4,Laurel Mountain Elementary, Aust) 674 4.0 15.0 10.0 17.5 25.0 14.0
+		[PATSY]: 41 Ragavan, Vikranth S (42) 694 1.0 5.0 7.0 2.0 20.0
+		[CASIS]: 15 Ragavan, Vikranth S (11,Laurel) 656 3.0 11.0 7.5 12.5 15.0 9.5
+[wed ] , Daniel  ,Yang
+		[LME]: &17 Yang, Daniel (32,Laurel Mountain Elementary, Aust) nnnn 2.5
+[thu ] , Suchir  ,Kumar
+		[PATSY]: 41 Kumar, Suchir (51) 341 2.5 15.5 19.5 10.5 67.5
+[thu ] , Romir  ,Jain
+		[LME]: 29 Jain, Romir (19,Laurel Mountain Elementary, Aust) 701 2.0 10.0 9.0 14.0 8.0 8.0
+		[PATSY]: 15 Jain, Romir (21) 593 2.0 8.5 12.0 7.0 30.0
+[thu ] , Ajith Bandlapalli ,Reddy
+		[LME]: 16 Bandlapalli, Ajith Red (47,Laurel Mountain Elementary, Aust) 103 3.0 9.5 6.0 9.5 7.0
+[thu ] , Jishnu  ,Saani
+		[LME]: 10 Saani, Jishnu Sai (10,Laurel Mountain Elementary, Aust) 424 3.0 13.5 9.5 15.5 17.0
+		[PATSY]: 23 Saani, Jishnu Sai (66) 286 3.5 16.5 18.0 10.5 54.0
+[thu ] , Alex  ,Kim
+		[LME]: &31 Kim, Seokhyun(Alex (32,Laurel Mountain Elementary, Aust) 697 1.0
+		[PATSY]: 8 Kim, Seokhyun(Alex (23) 402 4.5 16.0 16.0 15.0 51.0
+		[CASIS]: 9 Kim, Seokhyun(Alex (33,Laurel) 536 3.0 15.0 11.0 17.0 18.0 11.0
+[thu ] , Advik  ,Umesha
+		[LME]: 19 Umesha, Advik (51,Laurel Mountain Elementary, Aust) 439 3.0 13.0 9.0 15.0 14.0 11.0
+		[PATSY]: 54 Umesha, Advik (47) 544 0.5 9.0 12.5 2.5 33.5
+		[CASIS]: 12 Umesha, Advik (2,Laurel Mountain Elementary, Aust) 473 3.0 11.5 7.5 12.5 11.0 9.0
+[thu ] , Divyesh  ,Kotthakota
+		[LME]: &29 Kotthakota, Divyesh (32,Laurel Mountain Elementary, Aust) 638 2.0
+		[PATSY]: 30 Kotthakota, Divyesh (27) 651 2.5 5.5 9.0 7.0 27.0
+		[CASIS]: 38 Kotthakota, Divyesh (16,Laurel) 638 0.0 0.0 0.0 0.0 0.0 0.0
+[thu ] , Aneesh  ,Vanguri
+		[LME]: 30 Vanguri, Aneesh (20,Laurel Mountain Elementary, Aust) 580 3.0 8.5 5.5 9.0 6.0 6.0
+		[PATSY]: 40 Vanguri, Aneesh (31) 628 2.0 5.5 8.5 5.0 30.5
+[thu ] , Rohan  ,Engineer
+		[LME]: 22 Engineer, Rohan Dhilan (49,Laurel Mountain Elementary, Aust) nnnn 3.0 8.5 5.0 9.5 8.0
+[thu ] , Carter  ,Brezina
+		[LME]: 44 Brezina, Carter Addiso (41,Laurel Mountain Elementary, Aust) 479 2.0 8.5 7.5 12.5 6.0 7.0
+		[PATSY]: 27 Brezina, Carter Addison (43) 280 3.0 10.5 16.5 9.0 58.0
+		[CASIS]: 5 Brezina, Carter Addiso (12,Laurel Mountain Elementary, Aust) 332 3.5 13.5 9.5 15.5 19.0 11.0
+[thu ] , Hyunwoo  ,Chong
+		[LME]: 26 Chong, Hyunwoo (43,Laurel Mountain Elementary, Aust) 470 3.0 10.0 6.5 12.0 13.0 7.0
+		[PATSY]: 10 Chong, Hyunwoo (31) 343 4.0 18.5 21.5 13.0 77.0
+[thu ] , Vineet  ,Burugu
+		[PATSY]: 20 Burugu, Vineet Sai (45) nnnn 4.0 16.0 17.0 12.0 60.5
+[thu ] , Aayush  ,Kumar
+		[LME]: 45 Kumar, Aayush Keshav (47,Laurel Mountain Elementary, Aust) 225 1.0 6.0 6.0 9.5 0.0 3.0
+		[PATSY]: 51 Kumar, Aayush Keshav (5) 259 2.5 12.0 17.5 10.5 59.0
+[fri ] , Adam  ,Menezes
+		[LME]: 7 Menezes, Adam (30,Laurel Mountain Elementary, Aust) 296 3.5 11.5 7.5 12.0 12.5
+		[PATSY]: 62 Menezes, Adam (19) 432 1.5 5.5 9.0 3.5 28.0
+[fri ] , Ram  ,Sivaraman
+		[LME]: 9 Sivaraman, Ram (27,Laurel Mountain Elementary, Aust) 635 3.5 12.5 7.5 13.5 14.5 12.0
+		[PATSY]: 21 Sivaraman, Ram (20) 649 1.0 6.5 9.5 1.0 22.5
+[fri ] , Sakthivel  ,Vijayakumar
+		[LME]: &15 Vijayakumar, Sakthivel (25,Laurel Mountain Elementary, Aust) 756 3.0
+		[PATSY]: 7 Vijayakumar, Sakthivel (12) 646 3.5 11.0 11.0 11.0 33.0
+[fri ] , Christopher  ,Aung
+		[LME]: 19 Aung, Christopher Lee (4,Laurel Mountain Elementary, Aust) 1404 2.0 6.5 6.5 10.5 7.0
+		[PATSY]: 20 Aung, Christopher Lee (8) 1322 2.5 9.0 14.5 10.0 43.5
+		[CASIS]: 1 Aung, Christopher Lee (2,Laurel Mountain Elementary, Aust) 1237 4.5 10.5 6.5 10.5 21.0 12.0
+[fri ] , Rohit  ,Gundam
+		[LME]: 2 Gundam, Rohit (2,Laurel Mountain Elementary, Aust) 1225 4.0
+		[PATSY]: 2 Gundam, Rohit (3) 1191 4.0 13.5 15.0 13.0 47.0
+[fri ] , Neil  ,Choudhary
+		[LME]: &6 Choudhary, Neil (17,Laurel Mountain Elementary, Aust) 889 4.0
+		[PATSY]: 22 Choudhary, Neil (41) 756 2.5 7.5 12.5 7.0 33.0
+[fri ] , Saaketh  ,Maddala
+		[LME]: 32 Maddala, Saaketh (57,Laurel Mountain Elementary, Aust) 395 2.5 7.5 7.5 11.5 8.0 7.5
+		[PATSY]: 28 Maddala, Saaketh S (15) 431 3.0 10.5 16.5 9.0 53.0
+		[CASIS]: 13 Maddala, Saaketh (6,Laurel Mountain Elementary, Aust) 396 3.0 10.5 6.5 12.5 13.0 8.0
+[fri ] , Kartik  ,Kalra
+		[LME]: &3 Kalra, Kartik (5,Laurel Mountain Elementary, Aust) 928 4.0
+		[PATSY]: 1 Kalra, Kartik (18) 682 5.0 12.5 13.5 15.0 44.5
+		[CASIS]: 11 Kalra, Kartik (10,Laurel Mountain Elementary, Aust) 932 2.0 10.0 9.0 14.0 6.0 6.0
+[fri ] , Leah  ,Wang
+		[LME]: &28 Wang, Leah Kuan-Han (28,Laurel Mountain Elementary, Aust) 677 2.0
+		[PATSY]: 48 Wang, Leah Kuan-Han (4) 769 1.5 6.0 9.5 6.0 26.5
+[fri ] , Mark  ,Menezes
+		[LME]: 61 Menezes, Mark (40,Laurel Mountain Elementary, Aust) 484 1.5 3.0 3.0 6.0 1.0 2.5
+		[PATSY]: 55 Menezes, Mark (11) 729 0.0 9.0 12.0 0.0 30.5
+[fri ] , Siddharth  ,Vadlamani
+		[LME]: &5 Vadlamani, Siddharth S (7,Laurel Mountain Elementary, Aust) 1141 4.0
+		[PATSY]: 26 Vadlamani, Siddharth S (35) 923 2.0 13.5 17.5 9.0 50.5
+		[CASIS]: 9 Vadlamani, Siddharth S (4,Laurel Mountain Elementary, Aust) 1081 2.5 11.0 11.0 15.0 15.0 9.0
+[fri ] , Hrushikesh  ,Saranu
+		[LME]: 49 Saranu, Hrushikesh (29,Laurel Mountain Elementary, Aust) 553 2.0 7.0 6.0 11.0 5.0 5.0
+[fri ] , Aditya  ,Jandhyala
+		[PATSY]: 46 Jandhyala, Aditya (45) 561 1.5 8.5 12.5 5.0 36.0
+[fri ] , Sydney  ,Yeung
+		[LME]: 36 Yeung, Sydney (28,Laurel Mountain Elementary, Aust) 557 2.5 6.5 6.5 11.0 7.5 7.5
+		[PATSY]: 27 Yeung, Sydney (20) 589 2.0 7.5 11.5 6.0 36.0
+[fri ] , Sraavya  ,Danala
+		[LME]: 20 Danala, Sraavya Sri (23,Laurel Mountain Elementary, Aust) 570 3.0 13.0 8.0 14.0 10.0 6.0
+		[PATSY]: 34 Danala, Sraavya Sri (49) 539 2.0 10.5 14.5 6.0 38.5
+[fri ] , Tanvi  ,Reddy
+		[LME]: 16 Reddy, Tanvi (35,Laurel Mountain Elementary, Aust) 568 3.0 11.5 7.5 12.5 12.0 7.0
+		[PATSY]: 30 Reddy, Tanvi C (6) 487 3.0 13.0 19.5 13.0 71.5
+		[CASIS]: 12 Reddy, Tanvi (21,Laurel Mountain Elementary, Aust) 501 2.0 8.5 8.5 12.5 6.0 6.0
+[fri ] , Aadet  ,Samant
+		[LME]: 13 Samant, Aadet (62,Laurel Mountain Elementary, Aust) 370 3.5 12.0 8.0 12.0 12.5 12.5
+		[PATSY]: 16 Samant, Aadet (26) 383 3.5 17.5 19.5 13.0 68.5
+		[CASIS]: 34 Samant, Aadet (39,Laurel) 429 1.0 7.0 7.0 11.0 0.0 3.0
+Total final players:109
