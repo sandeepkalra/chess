@@ -138,6 +138,7 @@ int ci_find_substr( const T& str1, const T& str2, const std::locale& loc = std::
 
 void locate_results() {
 	//for(auto k: kids) 
+	cout<<"Total Kids: "<<kids.size()<<endl;
 	for(vector<sKid>::iterator it = kids.begin(); it != kids.end(); ++it)
 	{
 		sKid k = *it;
