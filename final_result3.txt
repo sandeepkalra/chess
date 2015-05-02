@@ -1,0 +1,138 @@
+Total Players:109
+------ k ------
+  Max Laine (3.5) 
+  Saaketh Boyapalle (3.5) 
+  Pratyush Sinha (3) 
+  Shreyan Khanna (3) 
+  Michael Qu (2.5) 
+  Grace Zeng (1) 
+  Tejan Bhirud (1) 
+
+------ 1st ------
+  Auden Sandvig (4.5) 
+  Annie Zhu (3.5) 
+  Jacob Zeng (3.5) 
+  Shiv Garg (3.5) 
+  Evelyn Stidvent (3) 
+  Ryan Gu (3) 
+  Jason Li (3) 
+  Siddharth Tripathi (2.5) 
+  Sophia Zhang (2.5) 
+
+------ 2nd ------
+  Luke Bradburn (2) 
+  Shreyas Dhagay (1.5) 
+
+------ 3rd ------
+  Charlotte Stidvent (3.5) 
+  Ethan Liu (3.5) 
+  Ethan Ho (2) 
+
+------ 4th ------
+  Ashish Jacob (3) 
+  Sara Garg (3) 
+  Alex Kalakanis (2.5) 
+
+------ 5th ------
+  Pranay Mangaonkar (4.5) 
+  Deven Bibikar (4) 
+  Annie Kim (3.5) 
+
+------ u1600 ------
+  Ganesh Kumarappan (4.5) 
+  Wesley Yeung (4) 
+  Aparna Yellamraju (4) 
+  Ambica Yellamraju (4) 
+  Manika Aggarwal (3.5) 
+  Evan Lai (3) 
+  Jason Nguyen (3) 
+  Jatin Aggarwal (3) 
+  Kevin Han (3) 
+  Mihit Garlanka (3) 
+  Lucas Ngo (2) 
+  Anoop Rachakonda (1) 
+
+------ u600 ------
+  Allison Nguyen (5) 
+  Darren Han (3.5) 
+  Kalia Wang (3.5) 
+  Shreya Ganti (2) 
+  Nayan Bhirud (1) 
+  Siona Shah (1) 
+  Ishan Dasgupta (0.5) 
+  Rayyaan Farooqui (0) 
+
+------ u300 ------
+  Lea Chong (3) 
+  Ishaan Sampat (2.5) 
+  Siona Shah (1) 
+
+------ mon ------
+  Ryan Lee (4) 
+  Krishiv Potluri (4) 
+  Meera Iyengar (3) 
+  Daniel Nam (3) 
+  Aarush Anand (2.5) 
+  Satyanandana Thallam (2.5) 
+  Vedant Desai (2) 
+  Martin Aburto (1) 
+  Shreya Chejara (1) 
+  Ruhan Gupta (0.5) 
+
+------ tue ------
+  Rithvik Hegde (4) 
+  Saaketh Boyapalle (3.5) 
+  Ethan Sze (3.5) 
+  Vishnu Muthuraman (3) 
+  Rithvik Umesha (3) 
+  Anannya Sathaye (2) 
+  Shriya Kota (2) 
+  Sarayu Danala (2) 
+  Anika Katta (1) 
+  Vivian Hapka (0) 
+
+------ wed ------
+  Kirti Ragavan (5) 
+  Zachary Gawiser (4) 
+  Vikranth Ragavan (4) 
+  Berntrand Qu (3) 
+  Shaurya Pathania (3) 
+  Armaan Srireddy (3) 
+  Brian Nam (3) 
+  Neel Kotichintala (2.5) 
+  Daniel Yang (2.5) 
+
+------ thu ------
+  Alex Kim (4.5) 
+  Hyunwoo Chong (4) 
+  Vineet Burugu (4) 
+  Jishnu Saani (3.5) 
+  Carter Brezina (3.5) 
+  Ajith Reddy (3) 
+  Advik Umesha (3) 
+  Aneesh Vanguri (3) 
+  Rohan Engineer (3) 
+  Suchir Kumar (2.5) 
+  Divyesh Kotthakota (2.5) 
+  Aayush Kumar (2.5) 
+  Romir Jain (2) 
+
+------ fri ------
+  Kartik Kalra (5) 
+  Christopher Aung (4.5) 
+  Rohit Gundam (4) 
+  Neil Choudhary (4) 
+  Siddharth Vadlamani (4) 
+  Adam Menezes (3.5) 
+  Ram Sivaraman (3.5) 
+  Sakthivel Vijayakumar (3.5) 
+  Aadet Samant (3.5) 
+  Saaketh Maddala (3) 
+  Sraavya Danala (3) 
+  Tanvi Reddy (3) 
+  Sydney Yeung (2.5) 
+  Leah Wang (2) 
+  Hrushikesh Saranu (2) 
+  Mark Menezes (1.5) 
+  Aditya Jandhyala (1.5) 
+

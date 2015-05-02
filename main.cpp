@@ -7,6 +7,7 @@
 #include <map>
 #include <algorithm>
 #include <regex>
+#include <list>
 using namespace std;
 
 
@@ -19,6 +20,7 @@ struct sKid {
     string casis_result;
     string lme_result;
     string patsy_result;
+	float best;
 	sKid(string section, string first,string second, string middle=""){
 		section_name = section;
 		first_name = first;
@@ -40,7 +42,7 @@ string master_results     = "results.txt";
 
 vector<sKid> kids;
 vector<sKid> semiFinal;
-vector<string> Final;
+vector<sKid> Final;
 
 vector<string> LME;
 vector<string> CASIS;
@@ -204,37 +206,86 @@ void find_final_results() {
 	
 	for(auto person: semiFinal)
 	{
-			float best = 0 ;
-			cout<<"["<<person.section_name<<"], ["<< person.first_name<< person.middle_name <<" ,"<< person.last_name<<"] ";
+			float best = 0;
+			sKid Student(person.first_name, person.last_name, person.middle_name);
+			//cout<<"["<<person.section_name<<"] ["<< person.first_name<<" " << person.middle_name <<" "<< person.last_name<<"] ";
 			if(person.lme_result!="") {
 				smatch match;		
 				regex_search(person.lme_result, match, expression);
 				string result = string(match[2]) + "." + string(match[3]);
-				cout<<",LME("<<result<<")";
+			//	cout<<",LME("<<result<<")";
 				float cost = stof(result);
+				Student.lme_result = result;
 				best = (cost>best)?cost:best;
 			}
 			if(person.patsy_result != "") {
 				smatch match;		
 				regex_search(person.patsy_result, match, expression);
 				string result = string(match[2]) + "." + string(match[3]);
-				cout<<",Patsy("<<result<<")";
+			//	cout<<",Patsy("<<result<<")";
 				float cost = stof(result);
+				Student.patsy_result = result;
 				best = (cost>best)?cost:best;
 			}
 			if(person.casis_result != "") {
 				smatch match;		
 				regex_search(person.casis_result, match, expression);
 				string result = string(match[2]) + "." + string(match[3]);
-				cout<<",Casis("<<result<<")";
+		//		cout<<",Casis("<<result<<")";
 				float cost = stof(result);
+				Student.casis_result = result;
 				best = (cost>best)?cost:best;
 			}
-			cout<<" ================================>  Best("<<best<<")";
-			cout<<"\r\n";
+			Student.first_name = person.first_name;
+			Student.last_name = person.last_name;
+			Student.middle_name = person.middle_name;
+			Student.section_name = person.section_name;
+			Student.best = best;
+			Final.push_back(Student);
+			//cout<<"\t\t Best("<<best<<")";
+			//cout<<"\r\n";
 	}
 }
 
+//string sections[] = {   "k", "1st", "2nd", "3rd", "4th", "5th", "u1600", "u600", "u300", "mon", "tue", "wed", "thu", "fri" };
+struct node {
+	float best;
+	string first_name;
+	string last_name;
+	string section_name;
+};
+
+map<string , list<node*>> buckets;
+
+void print_pretty_result() 
+{
+	for(auto s: sections) {
+		for(auto kido: Final)
+		{
+			if(kido.section_name == s) 
+			{
+				node *n = new node();
+				n->best = kido.best;
+				n->first_name  = kido.first_name;
+				n->last_name = kido.last_name;
+				n->section_name = kido.section_name;
+				buckets[s].push_back(n);
+			}
+		}
+	}
+
+	for(auto s: sections) {
+		auto l = buckets[s];
+		l.sort([](node*lhs,node*rhs){ return (rhs->best < lhs->best); });
+		cout<<"------ "<<s<<" ------\n";
+		for(auto i: l) {
+			cout<<"  "<<i->first_name<< " "<< i->last_name<< " ("<< i->best <<") \n";
+		}
+		cout<<endl;
+	}
+
+
+}
 
 int main() {
     init_kids_entry();
@@ -245,20 +296,10 @@ int main() {
 	for(auto i: kids) { 
 		if(i.lme_result != ""  || i.patsy_result != "" || i.casis_result!="")
 		{
-		/*		cout<<"["<<i.section_name<<"],"<<i.first_name<<","<<i.last_name<<": "<<"\r\n";
-
-				if(i.lme_result != "")
-				cout<<"\t[LME]=>"<<i.lme_result<<"\r\n";  
-
-				if(i.patsy_result!="")
-				cout<<"\t[PATSY]=>"<<i.patsy_result<<"\r\n";  
-
-				if(i.casis_result!="")
-				cout<<"\t[CASIS]=>"<<i.casis_result<<"\r\n";  
-			*/	
-				semiFinal.push_back(i);
+			semiFinal.push_back(i);
 		}
 	}
 	find_final_results();
 	cout<<"Total Players:" << semiFinal.size()<<"\r\n";
+	print_pretty_result();
 }	
