@@ -61,12 +61,11 @@ func load_students(sections []string) {
 			s.l_name = mid_name
 			s.m_name = last_name
 
-			students_map[value] = make([]student, 100)
+			students_map[value] = make([]*student, 100)
 			students_map[value].append(student{first_name, mid_name, last_name, 0})
 			fmt.Println(first_name, mid_name, last_name)
 		}
 	}
-
 }
 
 func main() {
