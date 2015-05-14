@@ -1,0 +1,226 @@
+======================== 1st Rank ===========================
+  Allison Nguyen (5), section : u600 
+  Kirti Ragavan (5), section : wed 
+  Kartik Kalra (5), section : fri 
+
+  Auden Sandvig (4.5), section : 1st 
+  Pranay Mangaonkar (4.5), section : 5th 
+  Alex Kim (4.5), section : thu 
+  Christopher Aung (4.5), section : fri 
+
+  Deven Bibikar (4), section : 5th 
+  Wesley Yeung (4), section : u1600 
+  Aparna Yellamraju (4), section : u1600 
+  Ambica Yellamraju (4), section : u1600 
+  Ryan Lee (4), section : mon 
+  Krishiv Potluri (4), section : mon 
+  Rithvik Hegde (4), section : tue 
+  Zachary Gawiser (4), section : wed 
+  Vikranth Ragavan (4), section : wed 
+  Hyunwoo Chong (4), section : thu 
+  Vineet Burugu (4), section : thu 
+  Rohit Gundam (4), section : fri 
+  Neil Choudhary (4), section : fri 
+  Siddharth Vadlamani (4), section : fri 
+
+======================== 2nd Rank ===========================
+
+  Max Laine (3.5), section : k 
+  Saaketh Boyapalle (3.5), section : k 
+  Annie Zhu (3.5), section : 1st 
+  Jacob Zeng (3.5), section : 1st 
+  Shiv Garg (3.5), section : 1st 
+  Charlotte Stidvent (3.5), section : 3rd 
+  Ethan Liu (3.5), section : 3rd 
+  Annie Kim (3.5), section : 5th 
+  Manika Aggarwal (3.5), section : u1600 
+  Darren Han (3.5), section : u600 
+  Kalia Wang (3.5), section : u600 
+  Saaketh Boyapalle (3.5), section : tue 
+  Ethan Sze (3.5), section : tue 
+  Jishnu Saani (3.5), section : thu 
+  Carter Brezina (3.5), section : thu 
+  Adam Menezes (3.5), section : fri 
+  Ram Sivaraman (3.5), section : fri 
+  Sakthivel Vijayakumar (3.5), section : fri 
+  Aadet Samant (3.5), section : fri 
+
+
+  Pratyush Sinha (3), section : k 
+  Shreyan Khanna (3), section : k 
+  Evelyn Stidvent (3), section : 1st 
+  Ryan Gu (3), section : 1st 
+  Jason Li (3), section : 1st 
+  Ashish Jacob (3), section : 4th 
+  Sara Garg (3), section : 4th 
+  Evan Lai (3), section : u1600 
+  Jason Nguyen (3), section : u1600 
+  Jatin Aggarwal (3), section : u1600 
+  Kevin Han (3), section : u1600 
+  Mihit Garlanka (3), section : u1600 
+  Lea Chong (3), section : u300 
+  Meera Iyengar (3), section : mon 
+  Daniel Nam (3), section : mon 
+  Vishnu Muthuraman (3), section : tue 
+  Rithvik Umesha (3), section : tue 
+  Berntrand Qu (3), section : wed 
+  Shaurya Pathania (3), section : wed 
+  Armaan Srireddy (3), section : wed 
+  Brian Nam (3), section : wed 
+  Ajith Reddy (3), section : thu 
+  Advik Umesha (3), section : thu 
+  Aneesh Vanguri (3), section : thu 
+  Rohan Engineer (3), section : thu 
+  Saaketh Maddala (3), section : fri 
+  Sraavya Danala (3), section : fri 
+  Tanvi Reddy (3), section : fri 
+
+======================== 3rd Rank ===========================
+
+  Michael Qu (2.5), section : k 
+  Siddharth Tripathi (2.5), section : 1st 
+  Sophia Zhang (2.5), section : 1st 
+  Alex Kalakanis (2.5), section : 4th 
+  Ishaan Sampat (2.5), section : u300 
+  Aarush Anand (2.5), section : mon 
+  Satyanandana Thallam (2.5), section : mon 
+  Neel Kotichintala (2.5), section : wed 
+  Daniel Yang (2.5), section : wed 
+  Suchir Kumar (2.5), section : thu 
+  Divyesh Kotthakota (2.5), section : thu 
+  Aayush Kumar (2.5), section : thu 
+  Sydney Yeung (2.5), section : fri 
+
+
+
+  Luke Bradburn (2), section : 2nd 
+  Ethan Ho (2), section : 3rd 
+  Lucas Ngo (2), section : u1600 
+  Shreya Ganti (2), section : u600 
+  Vedant Desai (2), section : mon 
+  Anannya Sathaye (2), section : tue 
+  Shriya Kota (2), section : tue 
+  Sarayu Danala (2), section : tue 
+  Romir Jain (2), section : thu 
+  Leah Wang (2), section : fri 
+  Hrushikesh Saranu (2), section : fri 
+
+
+  Shreyas Dhagay (1.5), section : 2nd 
+  Mark Menezes (1.5), section : fri 
+  Aditya Jandhyala (1.5), section : fri 
+
+
+  Grace Zeng (1), section : k 
+  Tejan Bhirud (1), section : k 
+  Anoop Rachakonda (1), section : u1600 
+  Nayan Bhirud (1), section : u600 
+  Siona Shah (1), section : u600 
+  Siona Shah (1), section : u300 
+  Martin Aburto (1), section : mon 
+  Shreya Chejara (1), section : mon 
+  Anika Katta (1), section : tue 
+
+
+  Ishan Dasgupta (0.5), section : u600 
+  Ruhan Gupta (0.5), section : mon 
+  Rayyaan Farooqui (0), section : u600 
+
+  Vivian Hapka (0), section : tue 
+
+
+======================== 4th Rank ===========================
+Ajith, Bandlapalli, section :  thu
+Anvith, Maddipoti, section :  thu
+Arnav, Machavarapu, section :  thu
+Akaash, Khurana, section :  thu
+Saaketh, Vedula, section :  thu
+Alex, Millian, section :  3rd
+Banks, Ryan, section :  3rd
+Haoze, Wang, section :  3rd
+Jackson, Baker, section :  3rd
+Jennifer, Dai, section :  3rd
+Matthew, Rao, section :  3rd
+Michael, Rao, section :  3rd
+Pranavi, Veluguleti, section :  3rd
+Sebastien, LeRiche, section :  3rd
+Shreyas, Nayakam, section :  3rd
+Srinivas, Vadhiraj, section :  3rd
+Yuhua, Zhou, section :  3rd
+Ishaan, Ammundi, section :  wed
+Haruki, Sukegawa, section :  wed
+Kaya, Chen, section :  wed
+Aidan, Embestro, section :  wed
+Shreyas, Nayakam, section :  wed
+Suleyman, Shah, section :  wed
+Ninaad, Patil, section :  wed
+Luc, Schwalm, section :  wed
+Tomas, Rey-Martinez, section :  wed
+Ethan, Andrew, section :  u300
+Grace, Hewett, section :  u300
+Halli, Hewett, section :  u300
+Amrita, Josyula, section :  k
+Justin, Chen, section :  k
+Kavin, Kannan, section :  k
+RithvikSai, Kambham, section :  k
+Shiven, Makkar, section :  k
+Ava, Domingue, section :  2nd
+Eileen, Zhao, section :  2nd
+Elisey, Metzler, section :  2nd
+Emily, Graham, section :  2nd
+Gopika, Rajalal, section :  2nd
+Grace, Huh, section :  2nd
+Kael, Knudson, section :  2nd
+Michelle, Huang, section :  2nd
+Owen, Doerle, section :  2nd
+Rifah, Mirza, section :  2nd
+Rishitha, Balla, section :  2nd
+Shuyu, Lai, section :  2nd
+Zoe, Chen, section :  2nd
+Anshuman, Garg, section :  tue
+Omar, Aziz, section :  tue
+Dhruv, Patil, section :  tue
+Shiven, Makkar, section :  tue
+Gautham, Gowda, section :  tue
+Samriddhi, Garlanka, section :  tue
+Serafima, Ivanova, section :  tue
+Aravindh, Diwakar, section :  4th
+Jack, Ziebell, section :  4th
+Kevin, Yu, section :  4th
+Naidhruva, Deb, section :  4th
+Peter, Hewett, section :  u600
+Jason, Darmawan, section :  u600
+Rishi, Baranga, section :  u600
+Isbella, Yi, section :  u600
+Dhruv, Pant, section :  u600
+Adriana, Cheng, section :  1st
+Isbella, Yi, section :  1st
+Jason, Francis, section :  1st
+Nairrita, Deb, section :  1st
+Will, Baker, section :  1st
+Alan, Morillo, section :  1st
+Liang-You, Ban, section :  1st
+Vedanth, Desai, section :  1st
+Sundar, Carey, section :  1st
+Rohith, Gajjala, section :  u1600
+Apurva, Gobburu, section :  u1600
+Rohith, Gajjala, section :  fri
+Ian, Kim, section :  5th
+Kevin, Son, section :  5th
+Apoorva, Selvakumar, section :  5th
+Christopher, Huh, section :  5th
+Pranav, Somwanshi, section :  5th
+Lucas, Rabinovich, section :  5th
+Samuel, Ngai, section :  5th
+Rakshinee, Sreekanth, section :  5th
+Andres, Sanchez, section :  5th
+Abigail, Wignall, section :  5th
+Keshav, Laxminarasimhan, section :  5th
+Viraj, Gadiya, section :  mon
+Luke, Chandler, section :  mon
+Zeren, Johnson, section :  mon
+Anishka, Basu, section :  mon
+Srinesh, Pentam, section :  mon
+Shresht, Hunnolli, section :  mon
+Varun, Koneru, section :  mon
+Dhriti, Saani, section :  mon
