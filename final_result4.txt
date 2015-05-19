@@ -26,7 +26,6 @@
 ======================== 2nd Rank ===========================
 
   Max Laine (3.5), section : k 
-  Saaketh Boyapalle (3.5), section : k 
   Annie Zhu (3.5), section : 1st 
   Jacob Zeng (3.5), section : 1st 
   Shiv Garg (3.5), section : 1st 
@@ -115,7 +114,6 @@
   Tejan Bhirud (1), section : k 
   Anoop Rachakonda (1), section : u1600 
   Nayan Bhirud (1), section : u600 
-  Siona Shah (1), section : u600 
   Siona Shah (1), section : u300 
   Martin Aburto (1), section : mon 
   Shreya Chejara (1), section : mon 
@@ -142,9 +140,7 @@ Jackson, Baker, section :  3rd
 Jennifer, Dai, section :  3rd
 Matthew, Rao, section :  3rd
 Michael, Rao, section :  3rd
-Pranavi, Veluguleti, section :  3rd
 Sebastien, LeRiche, section :  3rd
-Shreyas, Nayakam, section :  3rd
 Srinivas, Vadhiraj, section :  3rd
 Yuhua, Zhou, section :  3rd
 Ishaan, Ammundi, section :  wed
@@ -159,11 +155,9 @@ Tomas, Rey-Martinez, section :  wed
 Ethan, Andrew, section :  u300
 Grace, Hewett, section :  u300
 Halli, Hewett, section :  u300
-Amrita, Josyula, section :  k
 Justin, Chen, section :  k
 Kavin, Kannan, section :  k
 RithvikSai, Kambham, section :  k
-Shiven, Makkar, section :  k
 Ava, Domingue, section :  2nd
 Eileen, Zhao, section :  2nd
 Elisey, Metzler, section :  2nd
@@ -191,7 +185,6 @@ Naidhruva, Deb, section :  4th
 Peter, Hewett, section :  u600
 Jason, Darmawan, section :  u600
 Rishi, Baranga, section :  u600
-Isbella, Yi, section :  u600
 Dhruv, Pant, section :  u600
 Adriana, Cheng, section :  1st
 Isbella, Yi, section :  1st
@@ -202,7 +195,6 @@ Alan, Morillo, section :  1st
 Liang-You, Ban, section :  1st
 Vedanth, Desai, section :  1st
 Sundar, Carey, section :  1st
-Rohith, Gajjala, section :  u1600
 Apurva, Gobburu, section :  u1600
 Rohith, Gajjala, section :  fri
 Ian, Kim, section :  5th
@@ -214,7 +206,6 @@ Lucas, Rabinovich, section :  5th
 Samuel, Ngai, section :  5th
 Rakshinee, Sreekanth, section :  5th
 Andres, Sanchez, section :  5th
-Abigail, Wignall, section :  5th
 Keshav, Laxminarasimhan, section :  5th
 Viraj, Gadiya, section :  mon
 Luke, Chandler, section :  mon
