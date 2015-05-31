@@ -48,50 +48,50 @@ for k,v in student_list.items():
 	for student in v:
 		 for place,lines in result_lines.items():
 			for line in lines:
-					if line.lower().find(student.first_name.lower()) is not -1 and  \
-					   line.lower().find(student.last_name.lower()) is not -1 and \
-					   line.lower().find(student.middle_name.lower()) is not -1:
-						if place == "LME" :
-							student.lme_result = line
-						if place == "Patsy" :
-							student.patsy_result = line
-						if place == "Casis" :
-							student.casis_result = line
+				if line.lower().find(student.first_name.lower()) is not -1 and  \
+				   line.lower().find(student.last_name.lower()) is not -1 and \
+				   line.lower().find(student.middle_name.lower()) is not -1:
+					if place == "LME" :
+						student.lme_result = line
+					if place == "Patsy" :
+						student.patsy_result = line
+					if place == "Casis" :
+						student.casis_result = line
 
 # ------------- parse results for all kids to get best score --------------
 for k,v in student_list.items():
 	for s in v:
-			if s.casis_result != "":
-				match = re.search("\) (n|[0-9])* (\d.\d)", s.casis_result)
-				if match:
-						s.casis_val =  float(match.group(2))
-				else:
-					print "ERR" + s.casis_result
-			if s.lme_result != "":
-				match = re.search("\) (n|[0-9])* (\d.\d)", s.lme_result)
-				if match:
-						s.lme_val = float(match.group(2))
-				else:
-					print "ERR" + s.lme_result
-			if s.patsy_result != "":
-				match = re.search("\) (n|[0-9])* (\d.\d)", s.patsy_result)
-				if match:
-						s.patsy_val = float(match.group(2))
-				else:
-					print "ERR" + s.patsy_result
-			s.best_val = 0.0
-			full_name  = s.first_name + " " + s.last_name
-			if duplicate.get(full_name,0)==0:
-				duplicate[full_name]=s.section
+		if s.casis_result != "":
+			match = re.search("\) (n|[0-9])* (\d.\d)", s.casis_result)
+			if match:
+					s.casis_val =  float(match.group(2))
 			else:
-				print "----DUPLICATE------" , s.first_name, s.last_name
-			if s.lme_val != "":
-				s.best_val = s.lme_val
-			if s.casis_val != "" and s.casis_val > s.best_val:
-				s.best_val = s.casis_val
-			if s.patsy_val != "" and s.patsy_val > s.best_val:
-				s.best_val = s.patsy_val
-			if (s.lme_result != "" or s.casis_result != "" or s.patsy_result != ""):
-					print s.first_name + ", "+ s.last_name + ", Section: " + s.section  + ", Best " + str(s.best_val)
-			if not (s.lme_result != "" or s.casis_result != "" or s.patsy_result != ""):
-					print s.first_name + ", "+ s.last_name + ", section: " + s.section + " --- BRONZE AWARD "
+				print "ERR" + s.casis_result
+		if s.lme_result != "":
+			match = re.search("\) (n|[0-9])* (\d.\d)", s.lme_result)
+			if match:
+					s.lme_val = float(match.group(2))
+			else:
+				print "ERR" + s.lme_result
+		if s.patsy_result != "":
+			match = re.search("\) (n|[0-9])* (\d.\d)", s.patsy_result)
+			if match:
+					s.patsy_val = float(match.group(2))
+			else:
+				print "ERR" + s.patsy_result
+		s.best_val = -1.0
+		full_name  = s.first_name + " " + s.last_name
+		if duplicate.get(full_name,0)==0:
+			duplicate[full_name]=s.section
+		else:
+			print ", ----DUPLICATE-----,", s.first_name,",", s.last_name
+		if s.lme_val != "":
+			s.best_val = s.lme_val
+		if s.casis_val != "" and s.casis_val > s.best_val:
+			s.best_val = s.casis_val
+		if s.patsy_val != "" and s.patsy_val > s.best_val:
+			s.best_val = s.patsy_val
+		if (s.lme_result != "" or s.casis_result != "" or s.patsy_result != ""):
+			print s.section , ", " , s.first_name + ", "+ s.last_name + ", Best " + str(s.best_val)
+		else:
+			print s.section , ", " , s.first_name + ", "+ s.last_name + ", BRONZE AWARD "
