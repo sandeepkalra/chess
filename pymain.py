@@ -92,6 +92,11 @@ for k,v in student_list.items():
 		if s.patsy_val != "" and s.patsy_val > s.best_val:
 			s.best_val = s.patsy_val
 		if (s.lme_result != "" or s.casis_result != "" or s.patsy_result != ""):
-			print s.section , ", " , s.first_name + ", "+ s.last_name + ", Best " + str(s.best_val)
+			if(s.best_val >= 4.0):
+				print s.section , ", " , s.first_name + ", "+ s.last_name + ", Platinum Award"
+			elif(s.best_val >= 3.0):
+				print s.section , ", " , s.first_name + ", "+ s.last_name + ", Gold Award"
+			else:
+				print s.section , ", " , s.first_name + ", "+ s.last_name + ", Silver Award"
 		else:
-			print s.section , ", " , s.first_name + ", "+ s.last_name + ", BRONZE AWARD "
+			print s.section , ", " , s.first_name + ", "+ s.last_name + ", Bronze Award "
